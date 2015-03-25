@@ -1,0 +1,12 @@
+******************** device: A68_KK	remote: QC8K	branch: 5. KK-mr1-A68-11.8.0.53-RC ******************
+
+remote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1)[K
+remote: remote: Processing changes: new: 1[Kremote: Processing changes: new: 1, done    [K
+remote: (W) 6b3e1d1: commit subject >65 characters; use shorter first paragraph[K
+remote: (W) 6b3e1d1: commit message lines >70 characters; manually wrap lines[K
+remote: 
+remote: New Changes:[K
+remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133048[K
+remote: 
+To ssh://mcrd1-22-pc.corpnet.asus/AsusAPs/vendor/amax-prebuilt
+ * [new branch]      HEAD -> refs/for/KK-mr1-A68-11.8.0.53-RC

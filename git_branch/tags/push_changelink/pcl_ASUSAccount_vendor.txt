@@ -1,0 +1,4 @@
+	******************** device: A68_KK	remote: QC8K	branch: 5. KK-mr1-A68-11.8.0.53-RC ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133048
+

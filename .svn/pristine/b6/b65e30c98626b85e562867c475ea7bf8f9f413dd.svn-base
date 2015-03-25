@@ -1,0 +1,120 @@
+******************** device: A500CG_MR3	remote: fdc	branch: 0. rel/a500cg/asus/4.3-1.14.40 ******************
+
+f49c843 Merge "[A500-MR3][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese." into rel/a500cg/asus/4.3-1.14.40
+1f8bf48 [A500-MR3][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+70e5c76 [A500-MR3][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. four gating bugs, very important
+
+
+******************** device: A500CG_MR4	remote: fdc	branch: 1. rel/a500cg/asus/4.3-1.15.40 ******************
+
+e6e53d2 (tag: dev/a600cg/multi-1.15.40.17) Merge "[A500-MR4][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic" into rel/a500cg/asus/4.3-1.15.40
+25abbe8 [A500-MR4][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+6861a9f Merge "[A500-MR4][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings" into rel/a500cg/asus/4.3-1.15.40
+
+
+******************** device: PF500KL_KK	remote: QC8K	branch: 2. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+4d49eed [AMAX4.4][ASUSAccount][TT bug398168, 298379, 397100][fixed] V1.6.9.1 1. fixed AP will crash if shutdown WiFi during login; 2. change judge integrate logical
+08daa39 (tag: 044000231_201404070024) [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.55.1 1. change AuCloud icon; 2. modify th mananer of ASUS checking WiFi
+9e18abc [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.54.1 fix TT bug:382242, 386944, 390006, 390260.Settings will crash when login as new user;AP will crash when login oneDrive;Didn't return result when cancel ASUSAccount.
+
+
+******************** device: PF450CL_TA	remote: QC8K	branch: 3. KK-mr1-PF450CL-11.30.0.10-TA ******************
+
+4d49eed [AMAX4.4][ASUSAccount][TT bug398168, 298379, 397100][fixed] V1.6.9.1 1. fixed AP will crash if shutdown WiFi during login; 2. change judge integrate logical
+08daa39 (tag: 044000231_201404070024) [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.55.1 1. change AuCloud icon; 2. modify th mananer of ASUS checking WiFi
+9e18abc [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.54.1 fix TT bug:382242, 386944, 390006, 390260.Settings will crash when login as new user;AP will crash when login oneDrive;Didn't return result when cancel ASUSAccount.
+
+
+******************** device: PF450CL_AVL	remote: QC8K	branch: 4. KK-mr1-PF450CL-11.26.0.9-AVL ******************
+
+4d49eed [AMAX4.4][ASUSAccount][TT bug398168, 298379, 397100][fixed] V1.6.9.1 1. fixed AP will crash if shutdown WiFi during login; 2. change judge integrate logical
+08daa39 (tag: 044000231_201404070024) [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.55.1 1. change AuCloud icon; 2. modify th mananer of ASUS checking WiFi
+9e18abc [AMAX4.4][ASUSAccount][prebuilt][NA] V1.5.54.1 fix TT bug:382242, 386944, 390006, 390260.Settings will crash when login as new user;AP will crash when login oneDrive;Didn't return result when cancel ASUSAccount.
+
+
+******************** device: A68_KK	remote: QC8K	branch: 5. KK-mr1-A68-11.8.0.53-RC ******************
+
+670eb27 (tag: A68_11.8.2.25, tag: A68_11.8.2.24) [A68-mr1][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+8eab447 (tag: A68_11.8.2.13, tag: A68_11.8.2.12, tag: A68_11.8.2.11) [A68-mr1][ASUSAccount][TT bugs 405596,405584,405548,400657,398716,405402,405407][fixed] V1.6.13.140516. let drive not show in the image of CUCC; fixed AP will crash when logining oneDrive sometime; fix when has IP but no internet, baidu and OnDrive login flow was unnormal;delete logs and resources that unnecessary.
+6d72602 [AMAX4.4][ASUSAccount][TT 379780,379781,379132,382461][Fixed] V1.5.49.1 : fixed bug: 1.integrate page crash when crash 2.asus loading page crash 3. settings-> asus account crash
+
+
+******************** device: A80_KK	remote: QC8K	branch: 6. KK-mr1-8064-dev ******************
+
+61ee2a9 [A68-kk][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+cdb35d1 (tag: A80_11.8.0.69, tag: A80_11.8.0.68) [A68-kk][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+a6c5947 (tag: A80_11.8.0.60, tag: A80_11.8.0.59) [A68-kk][ASUSAccount][TT bugs 405596,405584,405548,400657,398716,405402,405407][fixed] V1.6.13.140516. let drive not show in the image of CUCC; fixed AP will crash when logining oneDrive sometime; fix when has IP but no internet, baidu and OnDrive login flow was unnormal;delete logs and resources that unnecessary.
+
+
+******************** device: A500KL_KK	remote: QC8K	branch: 7. KK-mr1-A500KL-11.4.0.30-RC ******************
+
+681861c [A500KL][ASUSAccount][TT bugs 417193, 419987, 420371, 420518][fixed] V1.0.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way
+124ea3b [A500KL][ASUSAccount][TT bug 391231,389022,404769,404785][fixed] V1.6.11.1 AP will crash when hit back at integeration dialog; ASUS account login fail; AuCould only show in ME581C
+607c339 [A500KL][ASUSAccount][prebuild][NA] fix TT bug:382242, 386944, 390006, 390260.Settings will crash when login as new user;AP will crash when login oneDrive;Didn't return result when cancel ASUSAccount.
+
+
+******************** device: A450CG_KK	remote: SW3	branch: 8. CLVP_KK4.4_WW52_AMAX1.0_A450CG ******************
+
+a68ea53 (tag: A450CG_V3.0.0_WW52_TW_WW) Merge commit '044000237_201404150025' into CLVP_KK4.4_WW52_AMAX1.0
+29586cc (tag: TX201LAF_V1.1.0_WW52_WW, tag: A400CG_V6.5.0_WW52_WW) Merge commit '044000231_201404070024' into CLVP_KK4.4_WW52_AMAX1.0
+8f21b38 [KK4.4][AsusAccount][RD] V1.5.54.1 fix TT bug:382242, 386944, 390006, 390260.Settings will crash when login as new user;AP will crash when login oneDrive;Didn't return result when cancel ASUSAccount.
+
+
+******************** device: ME372CG_KK	remote: SW3	branch: 9. CLVP_KK4.4_WW52_AMAX1.0_ME372CG ******************
+
+0bf7a91 [ME372CG][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+67770ca [ME372CG][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+b6b497d [ME372CG][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+
+
+******************** device: PF400CG_JB	remote: SW3	branch: 10. CLVP_JB4.3_WW38_AMAX1.0_PF400CG ******************
+
+f7bd675 (tag: PF400CG_V4.1.2_WW38_SH) [PF400CG][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+627f2f9 [PF400CG][ASUSAccount][TT bugs 417193, 419987, 420371, 420518][fixed] V1.0.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way
+cf9423f [PF400CG][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+
+
+******************** device: A400CG_JB	remote: SW3	branch: 11. CLVP_JB4.3_WW38_AMAX1.0_A400CG ******************
+
+e399937 (HEAD, SW3/CLVP_JB4.3_WW38_AMAX1.0_A400CG, CLVP_JB4.3_WW38_AMAX1.0_A400CG) [A400CG][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+62ca90d (tag: A400CG_V4.3.3_WW38_WW) [A400CG][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+469a860 [A400CG][ASUSAccount][TT bugs 417193, 419987, 420371, 420518][fixed] V1.0.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: FE170CG	branch: 12. jb-mr2-ctp-r1 ******************
+
+d7fb652 (tag: 10.32.1.30.2, tag: 10.32.1.30.1) [FE170CG][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+17c535a [FE170CG][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+fd9f737 [FE170CG][ASUSAccount][TT bugs 405596,405584,405548,400657,398716,405402,405407][fixed] V1.6.13.140516. let drive not show in the image of CUCC; fixed AP will crash when logining oneDrive sometime; fix when has IP but no internet, baidu and OnDrive login flow was unnormal;delete logs and resources that unnecessary.
+
+
+******************** device: TF701T_P1802_KK	remote: TF103CG	branch: 13. kk-t40-r1 ******************
+
+7ad3282 [TF701T][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+c7f9298 [TF701T][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+e345207 [TF701T][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+
+
+******************** device: TF103CG_KK	remote: TF103CG	branch: 14. kk-mr0-ctp-r2 ******************
+
+
+
+******************** device: ME560CG_KK	remote: TF103CG	branch: 15. kk-mr0-ctp-r1 ******************
+
+
+
+******************** device: ME176C	remote: FE176C	branch: 16. dev/me176c/asus/4.4.2 ******************
+
+0307014 Merge "[ME176C][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error" into dev/me176c/asus/4.4.2
+2e3ebf7 [ME176C][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+1b9fc3a Merge "[ME176C][ASUSAccount][TT bugs 407398][fixed] V1.6.17.140527. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login. 5. fix Japanese translation wrong" into dev/me176c/asus/4.4.2
+
+
+******************** device: ME181C	remote: FE176C	branch: 17. dev/me181c/asus/4.4.2 ******************
+
+eeaf5a7 Merge "[ME181C][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic" into dev/me181c/asus/4.4.2
+4a1e37d [ME181C][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+782fac2 Merge "[ME181C][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error" into dev/me181c/asus/4.4.2
+
+

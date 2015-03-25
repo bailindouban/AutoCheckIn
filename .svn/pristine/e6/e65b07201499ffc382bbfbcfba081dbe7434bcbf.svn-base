@@ -1,0 +1,306 @@
+******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+
+
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+1084c82b5a6f97bb149cfbdfbf5bedee0c34acf6 (tags/044000286_201406230034^0) [AMAX4.4][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+1084c82
+    Reviewed-on: http://amax01:8080/136239
+    APK Version: V1.0.0.140616
+    TT Bugs: 405499 422312 423013 423193,420947,422495
+    tags: 044000286_201406230034
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae5322b00357ba18ee69eda8f6f9be6ae37d2 (tags/044000276_201406091104~1) [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+5ec3cd62e59c8764f358eeef465df6eb9aa92a70 (tags/044000275_201406060028^0) [AMAX4.4][SoundRecorder][Add][RD]V2.8.0.140605  Add land screen for TX201LAF.
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bc5ae53
+    Reviewed-on: http://amax01:8080/134895
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+5ec3cd6
+    Reviewed-on: http://amax01:8080/134761
+    APK Version: V2.8.0.140605
+    TT Bugs: 
+    tags: 044000275_201406060028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+
+
+******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+
+
+******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae5322b00357ba18ee69eda8f6f9be6ae37d2 (tags/044000276_201406091104~1) [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bc5ae53
+    Reviewed-on: http://amax01:8080/134895
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+
+
+******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+
+
+******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+
+
+******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+18b8a565a35ac9829a120342f7a1758893b61c01 (tags/044000166_201312310213^0) [AMAX4.3][SoundRecorder][Na][FIX]  fix bug mms insert recording , filesize too small , no need to record
+8abeda75adccfe7adb1e5b79713ee934d170978c (tags/044000166_201312310213~1) [AMAX4.3][SoundRecorder][CES][FIX]  add new icon for ces
+ab54e2de9997ea15621760b3bdc899f59ec05303 (tags/044000164_201312270239^0) [AMAX4.3][SoundRecorder][TT339474][FIX] don't change the filename if it is not changed.
+
+18b8a56
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/117276
+    APK Version: 
+    TT Bugs: 
+    tags: 044000166_201312310213
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+8abeda7
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/117277
+    APK Version: 
+    TT Bugs: 
+    tags: 044000166_201312310213
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+ab54e2d
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/116568
+    APK Version: 
+    TT Bugs: 339474
+    tags: 044000164_201312270239
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+775f374cd0d71658c02e575869fa4a0ad6f87acb (tags/044000264_201405212359^0) [AMAX][AsusSoundRecorder][bug][fix] rm Android.mk to avoid build break
+98548f51bb3da72f299e6acf9f74c7b2d983db19 (tags/044000264_201405212359~1) [AMAX][SoundRecoder][feature][update] restore packages/apps/AsusSoundRecorder,put binary apk in out ,fast sync code
+72291c47960f1066a25fba12a5ddb30a98048fb7 (tags/010155_201312162222^0) [AMAX4.3][SoundRecorder][Na][Fix] fix GA same alias name ,cause mk break
+
+775f374
+    Reviewed-on: http://amax01:8080/133306
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+98548f5
+    Reviewed-on: http://amax01:8080/133090
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+72291c4
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/115045
+    APK Version: 
+    TT Bugs: 
+    tags: 010155_201312162222
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: TF103CG	branch: 11. kk-mr0-ctp-r3 ******************
+
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+123e8c50a60f622e549c7743b95e8fc0e6d46c40 (tags/11.2.0.123^0) Merge tag '044000275_201406060028' into kk-mr0-ctp-dev
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+123e8c5
+    APK Version: 
+    TT Bugs: 
+    tags: 11.2.0.123
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+
+
+******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae5322b00357ba18ee69eda8f6f9be6ae37d2 (tags/044000276_201406091104~1) [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bc5ae53
+    Reviewed-on: http://amax01:8080/134895
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: FE375CG_CTA	remote: me581	branch: 14. kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA ******************
+
+5ec3cd62e59c8764f358eeef465df6eb9aa92a70 (tags/044000275_201406060028^0) [AMAX4.4][SoundRecorder][Add][RD]V2.8.0.140605  Add land screen for TX201LAF.
+908c46756337b5b7984bd31edfd3fdb31edbec7a (tags/044000270_201405300035^0) [AMAX4.4][SoundRecorder][TT bugs 385030][fixed] V2.8.21.140526 Add dual app layout for me581, add multi language(JP), and modify CHANNEL_IN_MONO to CHANNEL_CONFIGURATION_STEREO(2 channel).
+bf55c12ff0803e10073771c9e696d398e18bba32 (tags/044000269_201405290028^0) [AMAX4.4][SoundRecorder][TT bugs 407606 408507 412087,412129,410587][fixed] V2.8.20.140521_1 Dynamic CAMERA_STOP_RECORD Receiver registaration, remove folder hight light when log press , cancle toast before showing toast , add dual app layout.
+
+5ec3cd6
+    Reviewed-on: http://amax01:8080/134761
+    APK Version: V2.8.0.140605
+    TT Bugs: 
+    tags: 044000275_201406060028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+908c467
+    Reviewed-on: http://amax01:8080/134169
+    APK Version: V2.8.21.140526
+    TT Bugs: 385030
+    tags: 044000270_201405300035
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bf55c12
+    Reviewed-on: http://amax01:8080/133831
+    APK Version: V2.8.20.140521
+    TT Bugs: 407606 408507 412087,412129,410587
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+1084c82b5a6f97bb149cfbdfbf5bedee0c34acf6 (tags/044000286_201406230034^0) [AMAX4.4][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+1084c82
+    Reviewed-on: http://amax01:8080/136239
+    APK Version: V1.0.0.140616
+    TT Bugs: 405499 422312 423013 423193,420947,422495
+    tags: 044000286_201406230034
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae5322b00357ba18ee69eda8f6f9be6ae37d2 (tags/044000276_201406091104~1) [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+c8d3cb6
+    Reviewed-on: http://amax01:8080/135335
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+acdd95f
+    Reviewed-on: http://amax01:8080/134908
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bc5ae53
+    Reviewed-on: http://amax01:8080/134895
+    APK Version: 
+    TT Bugs: 
+    tags: 044000276_201406091104
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+

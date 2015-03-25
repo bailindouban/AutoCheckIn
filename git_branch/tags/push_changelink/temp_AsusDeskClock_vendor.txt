@@ -1,0 +1,12 @@
+******************** device: PF500KL_KK	remote: QC8K	branch: 1. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+remote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3)[K
+remote: remote: Processing changes: new: 1[Kremote: Processing changes: new: 1, done    [K
+remote: (W) 228145c: commit subject >65 characters; use shorter first paragraph[K
+remote: (W) 228145c: commit message lines >70 characters; manually wrap lines[K
+remote: 
+remote: New Changes:[K
+remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133176[K
+remote: 
+To ssh://mcrd1-22-pc.corpnet.asus/AsusAPs/vendor/amax-prebuilt
+ * [new branch]      HEAD -> refs/for/KK-mr1-PF500KL-11.10.0.118-RC

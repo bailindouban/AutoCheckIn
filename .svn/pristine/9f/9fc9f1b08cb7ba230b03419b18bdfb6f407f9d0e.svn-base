@@ -1,0 +1,28 @@
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+3d2b643d51b08d01ec7a0127816f51370baef1ab (tags/044000280_201406130030^0) [AMAX4.4][AsusDeskClock][TT-423911,423044][Fix] v1.0.0.140611 release: widget ja string for me581
+597aac3c6438eea36d6c95a1df2ffa95a8d2a716 (tags/044000279_201406120030^0) [AMAX4.4][AsusDeskClock][Update]V1.0.0.140611 release: widget ja string for me581
+d5c054266fef03a23deb3291d502ad0365f8171a (tags/044000275_201406060028^0) [AMAX 4.4][AsusDeskClock][Update]V5.3.0.140604 release: Delivery the snooze length to flip cover
+
+3d2b643
+    Reviewed-on: http://amax01:8080/135349
+    APK Version: v1.0.0.140611
+    TT Bugs: 423911,423044
+    tags: 044000280_201406130030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+597aac3
+    Reviewed-on: http://amax01:8080/135290
+    APK Version: V1.0.0.140611
+    TT Bugs: 
+    tags: 044000279_201406120030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+d5c0542
+    Reviewed-on: http://amax01:8080/134799
+    APK Version: V5.3.0.140604
+    TT Bugs: 
+    tags: 044000275_201406060028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+

@@ -1,0 +1,1 @@
+[AsusDeskClock][TT-000618,408676,417701,428538,431201,429662,426513][Fix] v1.0.0.140630 released! 1.Restore the alarm db when image update from 4.3 to 4.4; 2.fix A500KL CTA gating bug 428538: snooze will be disabled when add a new alarm.

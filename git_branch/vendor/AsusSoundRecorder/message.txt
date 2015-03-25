@@ -1,0 +1,1 @@
+[ASUSAccount][V1.6.0.140718] change \"Sky Driver\" to \"OneDrive\" in all languages & keep the string \"OneDrive for ASUS\" in Japanese the same as English.

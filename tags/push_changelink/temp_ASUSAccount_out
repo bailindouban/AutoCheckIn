@@ -1,0 +1,12 @@
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+remote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2)[K
+remote: remote: Processing changes: new: 1[Kremote: Processing changes: new: 1, done    [K
+remote: (W) 7372294: commit subject >65 characters; use shorter first paragraph[K
+remote: (W) 7372294: commit message lines >70 characters; manually wrap lines[K
+remote: 
+remote: New Changes:[K
+remote:   http://mcrd1-5.corpnet.asus/code-review/master/141360[K
+remote: 
+To ssh://mcrd1-5.corpnet.asus/mofd/packages/apps/ASUSAccount
+ * [new branch]      HEAD -> refs/for/kk-mr1-moorefield_64-r2

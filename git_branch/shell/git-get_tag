@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+if [ -z "$2" ]; then
+    perl ~/Desktop/kim/perl/get_tag.pl $1 
+elif [ "$2" = "-f" ]; then
+    perl ~/Desktop/kim/perl/get_tag_format.pl $1 
+else
+    echo "Sorry, your input is not right!"
+fi

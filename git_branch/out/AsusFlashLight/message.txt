@@ -1,0 +1,1 @@
+[AsusDeskClock][TT-427762,428288,426329,384611,000618][Fix] v1.0.0.140623 released! 1. Fix widget bug by restarting service; 2. Change "asus.software.marketapp" to "asus.software.zenui".

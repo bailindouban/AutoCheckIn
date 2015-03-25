@@ -1,0 +1,266 @@
+******************** device: A500CG_MR3	remote: fdc	branch: 0. rel/a500cg/asus/4.3-1.14.40 ******************
+
+25bbfa543def5dadffa87519e658d0828d2d6f61 (tags/dev/a600cg/multi-1.14.40.12~13) Merge "[A500CG][FlashLight][v2.1.0.040523]update the version" into rel/a500cg/asus/4.3-1.14.40
+d64d7d49d3dd3c0f5ca2557f7bbf586b623bd8af (tags/dev/a600cg/multi-1.14.40.12~13^2) [A500CG][FlashLight][v2.1.0.040523]update the version
+b55361d96f4b18681d964323bf2469d574e11488 (tags/dev/a500cg/multi-1.14.40.7~1) Merge "[A500CG][FlashLight][NA][NA]control FlashLight by driver" into rel/a500cg/asus/4.3-1.14.40
+
+25bbfa5
+    APK Version: v2.1.0.040523
+    TT Bugs: 
+    tags: dev/a600cg/multi-1.14.40.12
+
+d64d7d4
+    APK Version: v2.1.0.040523
+    TT Bugs: 
+    tags: dev/a600cg/multi-1.14.40.12
+
+b55361d
+    APK Version: 
+    TT Bugs: 
+    tags: dev/a500cg/multi-1.14.40.7
+
+
+******************** device: A500CG_MR4	remote: fdc	branch: 1. rel/a500cg/asus/4.3-1.15.40 ******************
+
+520e4549c0cd5e74b13fd43ded28c2027b0c2e25 (tags/dev/a500cg/multi-1.15.40.10~2) Merge "[AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616 modify version" into rel/a500cg/asus/4.3-1.15.40
+898c9aa39c8b2e5d9a4360637eac57f6a60f760b (tags/dev/a500cg/multi-1.15.40.10~2^2) [AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616 modify version
+25bbfa543def5dadffa87519e658d0828d2d6f61 (tags/dev/a600cg/multi-1.14.40.12~13) Merge "[A500CG][FlashLight][v2.1.0.040523]update the version" into rel/a500cg/asus/4.3-1.14.40
+
+520e454
+    APK Version: v1.0.0.140616
+    TT Bugs: 
+    tags: dev/a500cg/multi-1.15.40.10
+
+898c9aa
+    APK Version: v1.0.0.140616
+    TT Bugs: 
+    tags: dev/a500cg/multi-1.15.40.10
+
+25bbfa5
+    APK Version: v2.1.0.040523
+    TT Bugs: 
+    tags: dev/a600cg/multi-1.14.40.12
+
+
+******************** device: PF500KL_KK	remote: QC8K	branch: 2. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+a44b28d06532566ab6c66441e113f74a427650a0 (tags/PF500KL_11.10.5.12^0) [PF500KL][FlashLight][v2.1.5]fixed conflict with camera
+3daf77d77973b02be0579b9bb699295a136f21e3 (tags/PF500KL_11.10.0.117~1) [PF500KL][FlashLight][NA]check in FlashLight for PF500KL
+
+a44b28d
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/125788
+    APK Version: v2.1.5
+    TT Bugs: 
+    tags: PF500KL_11.10.5.12
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+3daf77d
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/121871
+    APK Version: 
+    TT Bugs: 
+    tags: PF500KL_11.10.0.117
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+
+******************** device: PF450CL_KK	remote: QC8K	branch: 3. KK-mr1-Z2560-dev ******************
+
+ab94c1a37383cd834698801027dbfc85ee0952e2 (tags/PF450CL_11.28.0.10~1) [PF450CL][FlashLight][NA][add]FlashLight check in for PF450CL
+
+ab94c1a
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/131464
+    APK Version: 
+    TT Bugs: 
+    tags: PF450CL_11.28.0.10
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+
+******************** device: A68_KK	remote: QC8K	branch: 4. KK-mr1-A68-11.8.0.53-RC ******************
+
+1ffb1087563553ac16e27e026f3ac2251f8b46fc (tags/A68_11.8.2.3~2) [A68-KK][FlashLight][v2.1.5]FlashLight check-in A68-KK
+
+1ffb108
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/126004
+    APK Version: v2.1.5
+    TT Bugs: 
+    tags: A68_11.8.2.3
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+
+******************** device: A80_KK	remote: QC8K	branch: 5. KK-mr1-8064-dev ******************
+
+de62b0a4031f1e8bf6a08725f55ffc47f603c785 (tags/A80_11.8.0.75~9) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+668f05558aa57f37fd5d9b88ca4aefa85fca8176 (tags/A80_11.8.0.57~4) [A80-KK][FlashLight][v2.1.5]FlashLight check-in A80-KK
+
+de62b0a
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/124621
+    APK Version: 
+    TT Bugs: 
+    tags: A80_11.8.0.75
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+668f055
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/126022
+    APK Version: v2.1.5
+    TT Bugs: 
+    tags: A80_11.8.0.57
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+
+******************** device: A500KL_KK	remote: QC8K	branch: 6. KK-mr1-A500KL-11.4.0.30-RC ******************
+
+41cad790b09f575376e42421fadea6dcd6b693f4 (tags/A500KL_11.4.5.69~4) [A500KL][FlashLight][NA][NA]register CAMERA_STOP_FLASHLIGHT Receiver in code
+ff5a1f1454ae91c264d2cb7447f1f5526a7e88d2 (tags/A500KL_11.4.5.41^0) [A500KL][FlashLight][NA]handle interaction between FlashLight and ViewFlipCover
+60293a7e2011555ae2e9a76182e27c468e6e08be (tags/A500KL_11.4.5.34^0) [A500KL][FlashLight][v2.1.5]FlashLight check in A500KL
+
+41cad79
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/128141
+    APK Version: 
+    TT Bugs: 
+    tags: A500KL_11.4.5.69
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+ff5a1f1
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/126267
+    APK Version: 
+    TT Bugs: 
+    tags: A500KL_11.4.5.41
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+60293a7
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/124547
+    APK Version: v2.1.5
+    TT Bugs: 
+    tags: A500KL_11.4.5.34
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+
+******************** device: A450CG_KK	remote: SW3	branch: 7. CLVP_KK4.4_WW52_AMAX1.0_A450CG ******************
+
+40428d2ab822aa66e4fa2c397e5f1e2a997cf555 (tags/A450CG_V4.0.2_WW52_TW_WW~11) [A450CG][FlashLight][NA][modify]v1.0.0.140616 modify versionName
+611a2938d1dfaafaa4f1af6080f87d1d27c71df5 (tags/A450CG_V4.0.0_WW52_WW~2) [A450CG][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+1deea1baca60daa2458d16241040e4d781555243 (tags/A450CG_V4.0.0_WW52_WW~24) [A450CG][FlashLight][NA][NA]add multi-language,fixed bug:conflict with 3rd_App
+
+40428d2
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/31655
+    APK Version: v1.0.0.140616
+    TT Bugs: 
+    tags: A450CG_V4.0.2_WW52_TW_WW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+611a293
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/29993
+    APK Version: v2.1.0.140605
+    TT Bugs: 
+    tags: A450CG_V4.0.0_WW52_WW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+1deea1b
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/28091
+    APK Version: 
+    TT Bugs: 
+    tags: A450CG_V4.0.0_WW52_WW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+
+******************** device: ME372CG_KK	remote: SW3	branch: 8. CLVP_KK4.4_WW52_AMAX1.0_ME372CG ******************
+
+56b39225aadabfc9996cd80ab099c818f385402f (tags/A400CG_V6.5.5_WW52_WW~2) [AMAX][FlashLight][feature][add] flashlight only supported by A450CG PF500KL,A500CG,A600CG
+48c0761aa34dcdc82fc9787ce5e98427d1a013b9 (tags/044000252_201405060027~1) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+8f364ccd004a0fe8b03dc9d7266de4be75ebf926 (tags/A400CG_V6.5.3_WW52_WW^0) [AMAX][ME175CG] Temp to remove ShareRIM, PartyRIM, and FlashLight on ME175CG due to insufficient system partition
+
+56b3922
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/26185
+    APK Version: 
+    TT Bugs: 
+    tags: A400CG_V6.5.5_WW52_WW
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+48c0761
+    Reviewed-on: http://amax01:8080/131490
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 海港 吳 <Kevin3_Wu@asus.com>
+
+8f364cc
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/25123
+    APK Version: 
+    TT Bugs: 
+    tags: A400CG_V6.5.3_WW52_WW
+    Reviewed-by: Caesar Chen <caesar_chen@asus.com>
+
+
+******************** device: PF400CG_JB	remote: SW3	branch: 9. CLVP_JB4.3_WW38_AMAX1.0_PF400CG ******************
+
+
+
+******************** device: A400CG_JB	remote: SW3	branch: 10. CLVP_JB4.3_WW38_AMAX1.0_A400CG ******************
+
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: FE170CG	branch: 11. jb-mr2-ctp-r1 ******************
+
+
+
+******************** device: TF701T_P1802_KK	remote: TF103CG	branch: 12. kk-t40-r1 ******************
+
+48c0761aa34dcdc82fc9787ce5e98427d1a013b9 (tags/044000252_201405060027~1) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+48c0761
+    Reviewed-on: http://amax01:8080/131490
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 海港 吳 <Kevin3_Wu@asus.com>
+
+
+******************** device: TF103CG_KK	remote: TF103CG	branch: 13. kk-mr0-ctp-r2 ******************
+
+48c0761aa34dcdc82fc9787ce5e98427d1a013b9 (tags/044000252_201405060027~1) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+48c0761
+    Reviewed-on: http://amax01:8080/131490
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 海港 吳 <Kevin3_Wu@asus.com>
+
+
+******************** device: ME560CG_KK	remote: TF103CG	branch: 14. kk-mr0-ctp-r1 ******************
+
+096675ab3c182506016c58b713b6d0c0ad8f5506 (tags/11.2.1.7~4) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+096675a
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/131663
+    APK Version: 
+    TT Bugs: 
+    tags: 11.2.1.7
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME176C	remote: FE176C	branch: 15. dev/me176c/asus/4.4.2 ******************
+
+e2a003f4486ff83fdd87075e188f652e0cdae6c6 (tags/K013-dev-debug-3.0.12.165) Merge "[AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員" into dev/me176c/asus/4.4.2
+b6fef592106c1fdf2751fba8f962fc38aa252135 (tags/K013-dev-debug-3.0.12.165^2) [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+e2a003f
+    APK Version: 
+    TT Bugs: 
+    tags: K013-dev-debug-3.0.12.165
+
+b6fef59
+    APK Version: 
+    TT Bugs: 
+    tags: K013-dev-debug-3.0.12.165
+
+
+******************** device: ME181C	remote: FE176C	branch: 16. dev/me181c/asus/4.4.2 ******************
+
+
+

@@ -1,0 +1,4 @@
+	******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+	remote:   http://amax01:8080/137182
+

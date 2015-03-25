@@ -1,0 +1,117 @@
+1.	values-th	values-th
+Add new string: <string name="weekly">ทุกสัปดาห์</String>
+
+2.	values-nl	values-nl
+Add new string: <string name="weekly">Wekelijks</String>
+
+3.	values-et	values-et
+Add new string: <string name="weekly">Iganädalane</String>
+
+4.	values-ru	values-ru
+Add new string: <string name="weekly">Enter a number</String>
+
+5.	values-vi	values-vi
+Add new string: <string name="weekly">Hàng tuần</String>
+
+6.	values-en-rGB	values-en-rGB
+Add new string: <string name="weekly">Weekly</String>
+
+7.	values-hu	values-hu
+Add new string: <string name="weekly">Hetente</String>
+
+8.	values-ms	values-ms
+Add new string: <string name="weekly">Mingguan</String>
+
+9.	values-pl	values-pl
+Add new string: <string name="weekly">Co tydzień</String>
+
+10.	values-sv	values-sv
+Add new string: <string name="weekly">Varje vecka</String>
+
+11.	values-sk	values-sk
+Add new string: <string name="weekly">Týždenne</String>
+
+12.	values-tr	values-tr
+Add new string: <string name="weekly">Haftada bir</String>
+
+13.	values-ar	values-ar
+Add new string: <string name="weekly">أسبوعيًا</String>
+
+Add new string: <string name="weekly5">أ5سبوعيًا</String>
+
+Add new string: <string name="weekly2">أسب3وعيًا</String>
+
+14.	values-es-rUS	values-es-rUS
+Add new string: <string name="weekly">Semanal</String>
+
+15.	values-ro	values-ro
+Add new string: <string name="weekly">Săptămânal</String>
+
+16.	values-it	values-it
+Add new string: <string name="weekly">Settimanale</String>
+
+17.	values-de	values-de
+Add new string: <string name="weekly">Wöchentlich</String>
+
+18.	values-da	values-da
+Add new string: <string name="weekly">Ugentlig</String>
+
+19.	values-cs	values-cs
+Add new string: <string name="weekly">Týdně</String>
+
+20.	values-ja	values-ja
+Replace string <string name="weekly">曜日別</String>	With	<string name="weekly">\u6bce\u9031</String>
+
+21.	values-my	values-my
+Add new string: <string name="weekly">အပတ္စဥ္</String>
+
+22.	values-fr	values-fr
+Add new string: <string name="weekly">Hebdomadaire</String>
+
+23.	values-es	values-es
+Add new string: <string name="weekly">Semanalmente</String>
+
+24.	values-el	values-el
+Add new string: <string name="weekly">Εβδομαδιαία</String>
+
+25.	values-iw	values-iw
+Add new string: <string name="weekly">שבועי</String>
+
+26.	values-zh-rCN	values-zh-rCN
+Replace string <string name="weekly">按星期</String>	With	<string name="weekly">\u6bcf\u5468</String>
+
+27.	values-zh-rTW	values-zh-rTW
+Replace string <string name="weekly">按星期</String>	With	<string name="weekly">按星期</String>
+
+28.	values-hi	values-hi
+Add new string: <string name="weekly">साप्ताहिक</String>
+
+29.	values-pt-rPT	values-pt-rPT
+30.	values-in	values-in
+Add new string: <string name="weekly">Mingguan</String>
+
+31.	values-ko	values-ko
+Add new string: <string name="weekly">매주</String>
+
+32.	values-uk	values-uk
+Add new string: <string name="weekly">Щотижня</String>
+
+33.	values-fi	values-fi
+Add new string: <string name="weekly">Viikoittain</String>
+
+34.	values-bg	values-bg
+Add new string: <string name="weekly">Ежеседмично</String>
+
+35.	values	values
+Replace string <string name="weekly">Weekly</String>	With	<string name="weekly">Weekly</String>
+
+Add new string: <string name="weekly1">Wee2kly</String>
+
+Add new string: <string name="weekly2">Wee3kly</String>
+
+36.	values-pt-rBR	values-pt-rBR
+Add new string: <string name="weekly">Semanal</String>
+
+37.	values-nb	values-nb
+Add new string: <string name="weekly">Ukentlig</String>
+

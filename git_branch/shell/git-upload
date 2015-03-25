@@ -1,0 +1,7 @@
+#!/bin/sh -e
+
+if [ -z "$1" ]; then
+    perl ~/Desktop/kim/perl/upload.pl
+else
+    perl ~/Desktop/kim/perl/upload.pl $1
+fi

@@ -1,0 +1,1 @@
+d5708b1e65fb534aca3cd0ae80231bb30b00a678 (tags/K011-dev-debug-3.1.22.136~2) Merge "[ME181[SoundRecorder][TT406998,406699][Fix]V2.8.17.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error." into dev/me181c/asus/4.4.2

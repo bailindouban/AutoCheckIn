@@ -1,0 +1,20 @@
+#!/bin/sh -e
+
+path_vendor="/home/junzheng_zhang/Desktop/codebase/amax-prebuilt/clock"
+path_out="/home/junzheng_zhang/Desktop/codebase/4.4-clock/packages/apps"
+
+for project in AsusDeskClock ASUSAccount AsusFlashLight AsusSoundRecorder
+do
+    echo "******* Out --- "$project" ********"
+    cd $path_out"/"$project
+    project_deal=${project/Asus/}
+
+    git-get_tag $project_deal -f
+done
+
+for project2 in DeskClock ASUSAccount FlashLight SoundRecorder
+do
+    echo "******* Vendor --- "$project2" ********"
+    cd $path_vendor
+    git-get_tag $project2 -f
+done

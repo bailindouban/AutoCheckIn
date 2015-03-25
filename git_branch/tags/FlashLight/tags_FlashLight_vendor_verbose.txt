@@ -1,0 +1,94 @@
+******************** device: A500CG_MR3	remote: fdc	branch: 0. rel/a500cg/asus/4.3-1.14.40 ******************
+
+25bbfa5 Merge "[A500CG][FlashLight][v2.1.0.040523]update the version" into rel/a500cg/asus/4.3-1.14.40
+d64d7d4 [A500CG][FlashLight][v2.1.0.040523]update the version
+b55361d Merge "[A500CG][FlashLight][NA][NA]control FlashLight by driver" into rel/a500cg/asus/4.3-1.14.40
+
+
+******************** device: A500CG_MR4	remote: fdc	branch: 1. rel/a500cg/asus/4.3-1.15.40 ******************
+
+520e454 Merge "[AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616 modify version" into rel/a500cg/asus/4.3-1.15.40
+898c9aa [AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616 modify version
+25bbfa5 Merge "[A500CG][FlashLight][v2.1.0.040523]update the version" into rel/a500cg/asus/4.3-1.14.40
+
+
+******************** device: PF500KL_KK	remote: QC8K	branch: 2. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+a44b28d (tag: PF500KL_11.10.5.12) [PF500KL][FlashLight][v2.1.5]fixed conflict with camera
+3daf77d [PF500KL][FlashLight][NA]check in FlashLight for PF500KL
+
+
+******************** device: PF450CL_KK	remote: QC8K	branch: 3. KK-mr1-Z2560-dev ******************
+
+ab94c1a [PF450CL][FlashLight][NA][add]FlashLight check in for PF450CL
+
+
+******************** device: A68_KK	remote: QC8K	branch: 4. KK-mr1-A68-11.8.0.53-RC ******************
+
+1ffb108 [A68-KK][FlashLight][v2.1.5]FlashLight check-in A68-KK
+
+
+******************** device: A80_KK	remote: QC8K	branch: 5. KK-mr1-8064-dev ******************
+
+de62b0a [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+668f055 [A80-KK][FlashLight][v2.1.5]FlashLight check-in A80-KK
+
+
+******************** device: A500KL_KK	remote: QC8K	branch: 6. KK-mr1-A500KL-11.4.0.30-RC ******************
+
+41cad79 [A500KL][FlashLight][NA][NA]register CAMERA_STOP_FLASHLIGHT Receiver in code
+ff5a1f1 (tag: A500KL_11.4.5.41) [A500KL][FlashLight][NA]handle interaction between FlashLight and ViewFlipCover
+60293a7 (tag: A500KL_11.4.5.35, tag: A500KL_11.4.5.34) [A500KL][FlashLight][v2.1.5]FlashLight check in A500KL
+
+
+******************** device: A450CG_KK	remote: SW3	branch: 7. CLVP_KK4.4_WW52_AMAX1.0_A450CG ******************
+
+40428d2 [A450CG][FlashLight][NA][modify]v1.0.0.140616 modify versionName
+611a293 [A450CG][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+1deea1b [A450CG][FlashLight][NA][NA]add multi-language,fixed bug:conflict with 3rd_App
+
+
+******************** device: ME372CG_KK	remote: SW3	branch: 8. CLVP_KK4.4_WW52_AMAX1.0_ME372CG ******************
+
+56b3922 [AMAX][FlashLight][feature][add] flashlight only supported by A450CG PF500KL,A500CG,A600CG
+48c0761 [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+8f364cc (tag: TX201LAF_V1.4.0_WW52_WW, tag: A400CG_V6.5.3_WW52_WW) [AMAX][ME175CG] Temp to remove ShareRIM, PartyRIM, and FlashLight on ME175CG due to insufficient system partition
+
+
+******************** device: PF400CG_JB	remote: SW3	branch: 9. CLVP_JB4.3_WW38_AMAX1.0_PF400CG ******************
+
+
+
+******************** device: A400CG_JB	remote: SW3	branch: 10. CLVP_JB4.3_WW38_AMAX1.0_A400CG ******************
+
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: FE170CG	branch: 11. jb-mr2-ctp-r1 ******************
+
+
+
+******************** device: TF701T_P1802_KK	remote: TF103CG	branch: 12. kk-t40-r1 ******************
+
+48c0761 [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+
+******************** device: TF103CG_KK	remote: TF103CG	branch: 13. kk-mr0-ctp-r2 ******************
+
+48c0761 [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+
+******************** device: ME560CG_KK	remote: TF103CG	branch: 14. kk-mr0-ctp-r1 ******************
+
+096675a [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+
+******************** device: ME176C	remote: FE176C	branch: 15. dev/me176c/asus/4.4.2 ******************
+
+e2a003f (tag: K013-dev-debug-3.0.12.165) Merge "[AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員" into dev/me176c/asus/4.4.2
+b6fef59 [AMAX][QuickMemo][NA][Spec]update QuickMemo,version=1.0.1.101.11。该版本通过了AMAX-Q团队在2014-04-29的测试 Fixed issues 2.1 398283 Quick Memo:快速按返回鍵退出，偶發再次打開Quick Memo無法打開（偶發兩次） 2.2 391340 [A501CG][Quick Memo]選擇分享至QQ，點擊back鍵後，存在從QQ直接退出整個Quick Memo返回至桌面的情況 2.3 395458 [A600CG][Quick Memo]從Quick Memo編輯頁面，由Quick Setting進入FlashLight後，點擊返回按鈕，則會直接退出Quick Memo 2.4 397210 [MGSEI][Quick memo]光標下面部分有一部分是灰色的。 2.5 395429 [A600CG][Quick Memo]在已編輯過的memo中插入文字，頁面已滿時，點擊刪除也會提示頁面已滿 2.6 391944 [MGSEI][Quick memo]將Quick memo圖片分享到message，第一次通過圖庫查看是正常的，第二次查看提示：文件不存在。經確認，該bug不是Quick memo的問題，已經轉回給測試人員
+
+
+******************** device: ME181C	remote: FE176C	branch: 16. dev/me181c/asus/4.4.2 ******************
+
+
+

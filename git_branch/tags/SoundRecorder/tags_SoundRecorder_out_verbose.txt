@@ -1,0 +1,98 @@
+******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+
+
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+1084c82 (HEAD, tag: 044000291_201406300033, tag: 044000290_201406270031, tag: 044000289_201406260032, tag: 044000288_201406250030, tag: 044000287_201406240027, tag: 044000286_201406230034, m/AMAX_1.0-android_4.4, amax/AMAX_1.0-android_4.4, AMAX_1.0-android_4.4) [AMAX4.4][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+
+******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae53 [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+5ec3cd6 (tag: 044000275_201406060028) [AMAX4.4][SoundRecorder][Add][RD]V2.8.0.140605  Add land screen for TX201LAF.
+
+
+******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+
+
+******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+
+
+******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae53 [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+
+******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+
+
+******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+
+
+******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+
+
+******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+18b8a56 (HEAD, tag: tf103c-dev-debug-1.0.02.4, tag: tf103c-dev-debug-1.0.02.3, tag: tf103c-dev-debug-1.0.02.2, tag: K013-release-user-2.0.23.6, tag: K013-release-user-2.0.23.29, tag: K013-release-user-2.0.23.27, tag: K013-release-user-2.0.23.25, tag: K013-release-user-2.0.23.21, tag: K013-release-user-2.0.23.20, tag: K013-release-user-1.0.13.3, tag: K013-release-user-1.0.13.2, tag: K013-release-debug-2.0.23.8, tag: K013-release-debug-2.0.23.29, tag: K013-release-debug-2.0.23.27, tag: K013-release-debug-2.0.23.25, tag: K013-release-debug-2.0.23.21, tag: K013-dev-debug-3.0.12.82, tag: K013-dev-debug-3.0.12.81, tag: K013-dev-debug-3.0.12.79, tag: K013-dev-debug-2.0.12.78, tag: K013-dev-debug-2.0.12.74, tag: K013-dev-debug-2.0.12.73, tag: K013-dev-debug-2.0.12.72, tag: K013-dev-debug-2.0.12.71, tag: K013-dev-debug-2.0.12.70, tag: K013-dev-debug-2.0.12.63, tag: K013-dev-debug-2.0.12.62, tag: K013-dev-debug-2.0.12.61, tag: K013-dev-debug-2.0.12.58, tag: K013-dev-debug-2.0.12.57, tag: K013-dev-debug-2.0.12.55, tag: K013-dev-debug-2.0.12.54, tag: K013-dev-debug-2.0.12.52, tag: K013-dev-debug-2.0.12.51, tag: K013-dev-debug-2.0.12.50, tag: K013-dev-debug-2.0.12.48, tag: K013-dev-debug-2.0.12.45, tag: K013-dev-debug-2.0.12.37, tag: K013-dev-debug-1.0.12.22, tag: K013-dev-debug-1.0.12.21, tag: K013-dev-debug-1.0.12.20, tag: K013-dev-debug-1.0.12.19, tag: K013-dev-debug-1.0.12.18, tag: K013-dev-debug-1.0.12.17, tag: K013-dev-debug-1.0.12.16, tag: K013-dev-debug-1.0.12.15, tag: K013-dev-debug-1.0.12.14, tag: K013-dev-debug-1.0.02.9, tag: K013-dev-debug-1.0.02.7, tag: K013-dev-debug-1.0.02.5, tag: K013-dev-debug-1.0.02.2, tag: K011-release-user-2.0.23.37, tag: K011-release-user-2.0.23.35, tag: K011-release-user-2.0.23.30, tag: K011-release-user-2.0.23.25, tag: K011-release-user-2.0.23.24, tag: K011-release-user-2.0.23.23, tag: K011-release-user-2.0.13.3, tag: K011-release-user-2.0.13.21, tag: K011-release-user-2.0.13.19, tag: K011-release-user-2.0.13.16, tag: K011-release-user-1.0.13.2, tag: K011-release-user-1.0.13.1, tag: K011-release-debug-2.0.23.25, tag: K011-release-debug-2.0.13.4, tag: K011-release-debug-2.0.13.21, tag: K011-release-debug-2.0.13.19, tag: K011-release-debug-2.0.13.13, tag: K011-dev-debug-3.1.22.62, tag: K011-dev-debug-3.1.22.61, tag: K011-dev-debug-2.1.22.59, tag: K011-dev-debug-2.1.22.58, tag: K011-dev-debug-2.1.22.57, tag: K011-dev-debug-2.1.22.56, tag: K011-dev-debug-2.1.12.52, tag: K011-dev-debug-2.1.12.51, tag: K011-dev-debug-2.1.12.50, tag: K011-dev-debug-2.1.12.49, tag: K011-dev-debug-2.1.12.48, tag: K011-dev-debug-2.1.12.46, tag: K011-dev-debug-2.1.12.45, tag: K011-dev-debug-1.1.12.9, tag: K011-dev-debug-1.1.12.8, tag: K011-dev-debug-1.1.12.44, tag: K011-dev-debug-1.1.12.43, tag: K011-dev-debug-1.1.12.40, tag: K011-dev-debug-1.1.12.30, tag: K011-dev-debug-1.1.12.29, tag: K011-dev-debug-1.1.12.28, tag: K011-dev-debug-1.1.12.26, tag: K011-dev-debug-1.1.12.24, tag: K011-dev-debug-1.1.12.23, tag: K011-dev-debug-1.1.12.22, tag: K011-dev-debug-1.1.12.20, tag: K010-dev-debug-1.0.12.9, tag: K010-dev-debug-1.0.12.8, tag: K010-dev-debug-1.0.12.11, tag: K010-dev-debug-1.0.12.10, tag: K010-dev-debug-1.0.02.7, tag: 11.2.0.26.4, tag: 11.2.0.26.2, tag: 11.2.0.26.1, tag: 11.2.0.24.1, tag: 11.2.0.23, tag: 044000175_201401130225, tag: 044000174_201401101309, tag: 044000173_201401090210, tag: 044000170_201401060216, tag: 044000169_201401030218, tag: 044000168_201401020219, tag: 044000167_201401010216, tag: 044000166_201312310213, etrd/AMAX-android_4.3_r2.1-master, TF103C/release/me181c/asus/4.4.2, TF103C/release/me176c/asus/4.4.2, TF103C/dev/tf103c/asus/4.4.2, TF103C/dev/tf103c/asus/4.4, TF103C/dev/me176c/asus/4.4.2, TF103C/dev/me176c/asus/4.4, dev/tf103c/asus/4.4.2) [AMAX4.3][SoundRecorder][Na][FIX]  fix bug mms insert recording , filesize too small , no need to record
+8abeda7 [AMAX4.3][SoundRecorder][CES][FIX]  add new icon for ces
+ab54e2d (tag: 044000165_201312300214, tag: 044000164_201312270239) [AMAX4.3][SoundRecorder][TT339474][FIX] don't change the filename if it is not changed.
+
+
+******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+775f374 (HEAD, tag: 11.8.0.67.1, tag: 11.8.0.67, tag: 11.8.0.66.2, tag: 11.8.0.66.1, tag: 11.8.0.66, tag: 11.8.0.65.2, tag: 11.8.0.65.1, tag: 11.8.0.65, tag: 11.8.0.64.4, tag: 11.8.0.64.2, tag: 11.4.1.9, tag: 11.4.1.8.1, tag: 11.4.1.8, tag: 11.4.1.17, tag: 11.4.1.16, tag: 11.4.1.15, tag: 11.4.1.14, tag: 11.4.1.13, tag: 11.4.1.12.1, tag: 11.4.1.12, tag: 11.4.1.11, tag: 11.4.1.10, tag: 11.12.1.8, tag: 11.12.1.7, tag: 11.12.1.6, tag: 11.12.1.5, tag: 11.12.1.4, tag: 11.12.1.3, tag: 11.12.1.2, tag: 11.12.1.1, tag: 11.12.0.39, tag: 11.12.0.38.2, tag: 11.12.0.38.1, tag: 11.10.0.43, tag: 11.10.0.42.1, tag: 11.10.0.42, tag: 044000268_201405280029, tag: 044000267_201405270029, tag: 044000266_201405260029, tag: 044000265_201405230029, tag: 044000264_201405212359, TF303K/kk-mr1-8064-r1, TF303CL/kk-mr0-byt-r1, kk-mr0-byt-r1) [AMAX][AsusSoundRecorder][bug][fix] rm Android.mk to avoid build break
+98548f5 [AMAX][SoundRecoder][feature][update] restore packages/apps/AsusSoundRecorder,put binary apk in out ,fast sync code
+72291c4 (tag: 044000156_201312170342, tag: 044000155_201312161654, tag: 010156_201312170110, tag: 010155_201312162222, etrd/AMAX_1.0-android_4.4) [AMAX4.3][SoundRecorder][Na][Fix] fix GA same alias name ,cause mk break
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: TF103CG	branch: 11. kk-mr0-ctp-r3 ******************
+
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+123e8c5 (tag: 11.2.0.123) Merge tag '044000275_201406060028' into kk-mr0-ctp-dev
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+
+******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+
+
+******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae53 [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+
+******************** device: FE375CG_CTA	remote: me581	branch: 14. kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA ******************
+
+5ec3cd6 (tag: 044000275_201406060028) [AMAX4.4][SoundRecorder][Add][RD]V2.8.0.140605  Add land screen for TX201LAF.
+908c467 (tag: 11.4.0.44, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035) [AMAX4.4][SoundRecorder][TT bugs 385030][fixed] V2.8.21.140526 Add dual app layout for me581, add multi language(JP), and modify CHANNEL_IN_MONO to CHANNEL_CONFIGURATION_STEREO(2 channel).
+bf55c12 (tag: 044000269_201405290028) [AMAX4.4][SoundRecorder][TT bugs 407606 408507 412087,412129,410587][fixed] V2.8.20.140521_1 Dynamic CAMERA_STOP_RECORD Receiver registaration, remove folder hight light when log press , cancle toast before showing toast , add dual app layout.
+
+
+******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+1084c82 (tag: 044000291_201406300033, tag: 044000290_201406270031, tag: 044000289_201406260032, tag: 044000288_201406250030, tag: 044000287_201406240027, tag: 044000286_201406230034, m/AMAX_1.0-android_4.4, amax/AMAX_1.0-android_4.4, AMAX_1.0-android_4.4) [AMAX4.4][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+
+
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+c8d3cb6 (tag: 044000285_201406200032, tag: 044000284_201406191033, tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f (tag: 044000279_201406120030, tag: 044000278_201406110031, tag: 044000277_201406100026, tag: 044000276_201406091104) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae53 [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included
+
+

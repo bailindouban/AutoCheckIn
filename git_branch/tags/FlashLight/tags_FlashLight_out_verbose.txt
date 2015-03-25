@@ -1,0 +1,89 @@
+******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+
+
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+c19e85a (HEAD, tag: 044000291_201406300033, tag: 044000290_201406270031, tag: 044000289_201406260032, tag: 044000288_201406250030, tag: 044000287_201406240027, tag: 044000286_201406230034, tag: 044000285_201406200032, tag: 044000284_201406191033, m/AMAX_1.0-android_4.4, amax/AMAX_1.0-android_4.4, AMAX_1.0-android_4.4) [AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616  modify versionName
+7b20b69 (tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030, tag: 044000279_201406120030, tag: 044000278_201406110031) [AMAX-4.4][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+
+
+******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec2 [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ff (tag: 11.12.1.9, tag: 11.12.1.8, tag: 11.12.1.7, tag: 11.12.1.6, tag: 11.12.1.5, tag: 11.12.1.4, tag: 11.12.1.3, tag: 11.12.1.2, tag: 11.12.1.14, tag: 11.12.1.13, tag: 11.12.1.12, tag: 11.12.1.11, tag: 11.12.1.10, tag: 11.12.1.1, tag: 11.12.0.39, tag: 11.12.0.38.2, tag: 11.12.0.38.1, tag: 044000268_201405280029, tag: 044000267_201405270029, tag: 044000266_201405260029, TF103CG/kk-mr1-8064-r1, kk-mr1-8064-r1) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+
+******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec2 [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ff (tag: 11.12.1.9, tag: 11.12.1.8, tag: 11.12.1.7, tag: 11.12.1.6, tag: 11.12.1.5, tag: 11.12.1.4, tag: 11.12.1.3, tag: 11.12.1.2, tag: 11.12.1.14, tag: 11.12.1.13, tag: 11.12.1.12, tag: 11.12.1.11, tag: 11.12.1.10, tag: 11.12.1.1, tag: 11.12.0.39, tag: 11.12.0.38.2, tag: 11.12.0.38.1, tag: 044000268_201405280029, tag: 044000267_201405270029, tag: 044000266_201405260029, TF103CG/kk-mr1-8064-r1, kk-mr1-8064-r1) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+
+******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+03d2f4d (tag: 044000265_201405230029, tag: 044000264_201405212359) [AMAX][AsusFlashLight][feature][add] add source code , fast sync code
+
+
+******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+7b20b69 (tag: 044000283_201406180031, tag: 044000282_201406170035, tag: 044000281_201406160030, tag: 044000280_201406130030, tag: 044000279_201406120030, tag: 044000278_201406110031) [AMAX-4.4][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec2 [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+
+
+******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec2 [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ff (tag: 11.12.1.9, tag: 11.12.1.8, tag: 11.12.1.7, tag: 11.12.1.6, tag: 11.12.1.5, tag: 11.12.1.4, tag: 11.12.1.3, tag: 11.12.1.2, tag: 11.12.1.14, tag: 11.12.1.13, tag: 11.12.1.12, tag: 11.12.1.11, tag: 11.12.1.10, tag: 11.12.1.1, tag: 11.12.0.39, tag: 11.12.0.38.2, tag: 11.12.0.38.1, tag: 044000268_201405280029, tag: 044000267_201405270029, tag: 044000266_201405260029, TF103CG/kk-mr1-8064-r1, kk-mr1-8064-r1) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+
+******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+
+
+******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+f22fe8e (HEAD, A500KL/KK-mr1-A500KL-11.4.0.80-MR, KK-mr1-A500KL-11.4.0.80-MR) [A500KL_MR][FlashLight][NA][modify]v1.0.0.140616 modify versionName
+c6a8e2b (tag: 044000277_201406100026, tag: 044000276_201406091104, tag: 044000275_201406060028, tag: 044000274_201406050026, tag: 044000273_201406040031, tag: 044000272_201406030030, tag: 044000271_201406020029, tag: 044000270_201405300035, tag: 044000269_201405290028) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec2 [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+
+
+******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+
+
+******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: TF103CG	branch: 11. kk-mr0-ctp-r3 ******************
+
+
+
+******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+a7442ff (HEAD, tag: 11.12.1.9, tag: 11.12.1.8, tag: 11.12.1.7, tag: 11.12.1.6, tag: 11.12.1.5, tag: 11.12.1.4, tag: 11.12.1.3, tag: 11.12.1.2, tag: 11.12.1.14, tag: 11.12.1.13, tag: 11.12.1.12, tag: 11.12.1.11, tag: 11.12.1.10, tag: 11.12.1.1, tag: 11.12.0.39, tag: 11.12.0.38.2, tag: 11.12.0.38.1, tag: 044000268_201405280029, tag: 044000267_201405270029, tag: 044000266_201405260029, TF103CG/kk-mr1-8064-r1, kk-mr1-8064-r1) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+03d2f4d (tag: 044000265_201405230029, tag: 044000264_201405212359) [AMAX][AsusFlashLight][feature][add] add source code , fast sync code
+
+
+******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+
+
+******************** device: FE375CG_CTA	remote: me581	branch: 14. kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA ******************
+
+
+
+******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+
+
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+
+

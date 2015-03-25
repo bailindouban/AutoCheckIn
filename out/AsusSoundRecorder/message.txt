@@ -1,0 +1,1 @@
+[SoundRecorder][TT bugs 396428 397481 400676 409276,426100,427035,427742,427749, 427865][fixed] V1.0.0.140624_1 reset the position of playing recording, Modify "Ok" to "OK",  Init the isChecked value is false, Modify the right time, Modify the right recording filename, Fixed apostrophe error. Modify asus.software.zenui.

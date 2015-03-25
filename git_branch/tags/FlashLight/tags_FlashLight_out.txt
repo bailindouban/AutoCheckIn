@@ -1,0 +1,237 @@
+******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+
+
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+c19e85a154f743439c76755b36da363df9b3a739 (tags/044000284_201406191033^0) [AMAX-4.4][FlashLight][NA][NA]v1.0.0.140616  modify versionName
+7b20b695a971b5ed154ab4ef22590ac2b628327d (tags/044000278_201406110031^0) [AMAX-4.4][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+
+c19e85a
+    Reviewed-on: http://amax01:8080/135963
+    APK Version: v1.0.0.140616
+    TT Bugs: 
+    tags: 044000284_201406191033
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+7b20b69
+    Reviewed-on: http://amax01:8080/135102
+    APK Version: v2.1.0.140605
+    TT Bugs: 
+    tags: 044000278_201406110031
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec23ec84bb81d72f6158b73f2dd8f70393d2 (tags/044000269_201405290028~1) [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ffcf43eab29112b5a7c1c0d568e249468e9 (tags/044000266_201405260029^0) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bae8ec2
+    Reviewed-on: http://amax01:8080/133634
+    APK Version: 
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+a7442ff
+    Reviewed-on: http://amax01:8080/133563
+    APK Version: 
+    TT Bugs: 
+    tags: 044000266_201405260029
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec23ec84bb81d72f6158b73f2dd8f70393d2 (tags/044000269_201405290028~1) [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ffcf43eab29112b5a7c1c0d568e249468e9 (tags/044000266_201405260029^0) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bae8ec2
+    Reviewed-on: http://amax01:8080/133634
+    APK Version: 
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+a7442ff
+    Reviewed-on: http://amax01:8080/133563
+    APK Version: 
+    TT Bugs: 
+    tags: 044000266_201405260029
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+03d2f4dc115e1824c6dd6ed5b0fbfd6f168b3b88 (tags/044000264_201405212359^0) [AMAX][AsusFlashLight][feature][add] add source code , fast sync code
+
+03d2f4d
+    Reviewed-on: http://amax01:8080/133119
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+7b20b695a971b5ed154ab4ef22590ac2b628327d (tags/044000278_201406110031^0) [AMAX-4.4][FlashLight][NA][NA]v2.1.0.140605 register CAMERA_STOP_FLASHLIGHT receiver in code
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec23ec84bb81d72f6158b73f2dd8f70393d2 (tags/044000269_201405290028~1) [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+
+7b20b69
+    Reviewed-on: http://amax01:8080/135102
+    APK Version: v2.1.0.140605
+    TT Bugs: 
+    tags: 044000278_201406110031
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bae8ec2
+    Reviewed-on: http://amax01:8080/133634
+    APK Version: 
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec23ec84bb81d72f6158b73f2dd8f70393d2 (tags/044000269_201405290028~1) [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+a7442ffcf43eab29112b5a7c1c0d568e249468e9 (tags/044000266_201405260029^0) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bae8ec2
+    Reviewed-on: http://amax01:8080/133634
+    APK Version: 
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+a7442ff
+    Reviewed-on: http://amax01:8080/133563
+    APK Version: 
+    TT Bugs: 
+    tags: 044000266_201405260029
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+
+
+******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+f22fe8eb9fef1b66b2d2b17b0acbb7beac1b9cdc [A500KL_MR][FlashLight][NA][modify]v1.0.0.140616 modify versionName
+c6a8e2b3fdb5bc683599f10193ee8701f003616b (tags/044000269_201405290028^0) [AMAX-4.4][FlashLight][AMAX-4646,TT-411277][Fix]v2.1.6.140523 disable FlashLight in Pad Mode,add multi-language,fixed conflict with 3rd_App
+bae8ec23ec84bb81d72f6158b73f2dd8f70393d2 (tags/044000269_201405290028~1) [AMAX_4.4][FlashLight][NA][NA] FlashLight check in AMAX_4.4
+
+f22fe8e
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/131901
+    APK Version: v1.0.0.140616
+    TT Bugs: 
+    tags: 
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+c6a8e2b
+    Reviewed-on: http://amax01:8080/134067
+    APK Version: v2.1.6.140523
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bae8ec2
+    Reviewed-on: http://amax01:8080/133634
+    APK Version: 
+    TT Bugs: 
+    tags: 044000269_201405290028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+
+
+******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: TF103CG	branch: 11. kk-mr0-ctp-r3 ******************
+
+
+
+******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+a7442ffcf43eab29112b5a7c1c0d568e249468e9 (tags/044000266_201405260029^0) [AMAX][AsusFlashLight][bug][fix] add Android.mk to build into special target project
+03d2f4dc115e1824c6dd6ed5b0fbfd6f168b3b88 (tags/044000264_201405212359^0) [AMAX][AsusFlashLight][feature][add] add source code , fast sync code
+
+a7442ff
+    Reviewed-on: http://amax01:8080/133563
+    APK Version: 
+    TT Bugs: 
+    tags: 044000266_201405260029
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+03d2f4d
+    Reviewed-on: http://amax01:8080/133119
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+
+
+******************** device: FE375CG_CTA	remote: me581	branch: 14. kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA ******************
+
+
+
+******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+
+
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+
+

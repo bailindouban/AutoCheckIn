@@ -1,0 +1,7 @@
+******************** device: A68_KK	remote: QC8K	branch: 4. KK-mr1-A68-11.8.0.53-RC ******************
+
+e421022 [A68_KK][AsusDeskClock][TT-427762,428288,426329,384611,000618][Fix] v1.0.0.140623 released! 1. Fix widget bug by restarting service; 2. Change asus.software.marketapp to asus.software.zenui.
+9e9d4a4 (tag: A68_11.8.2.26) [A68KK][AsusDeskClock][TT-414259,406873,380808,389011,393135][Fixed] v5.3.0.140605 released(Pass AMAX-Q Test). 1.delete redandunt resource to reduce APK size by 0.5M; 2.adjust layout for TX201LAF; 3.delete redundant code of alarm alert; 4.Delivery the snooze length to flip cover.
+f9b71c7 [A68_kk][AsusDeskClock]V5.2.1:remove original package so clock associated with the original clock
+
+

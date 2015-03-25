@@ -1,0 +1,440 @@
+******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+39a6401dd68b20e3235c14c6dc5ec571d9d24f45 (tags/010107_201310090103^0) [AMAX][ASUSAccount][JIRA AMAX-1046]A86 power consumption issue_internal
+22db62a6a6fb868e7b705b2d2017bc0e1138f9cc (tags/0100100_201309300102^0) [AMAX][ASUSAccount][AMAX-440] Modify build project filter
+ef8d1b0e5f6b7f4af5f0bedc21e04d7b25ecb620 (tags/000070_201308150003^0) [AMAX][ASUSAccount][JIRA SWFIVE-2254][FIX]Remove wifi strings for CTA
+
+39a6401
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/102894
+    APK Version: 
+    TT Bugs: 
+    tags: 010107_201310090103
+    Reviewed-by: Tino Su <tino_su@asus.com>
+
+22db62a
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/100415
+    APK Version: 
+    TT Bugs: 
+    tags: 0100100_201309300102
+    Reviewed-by: Jeffrey_CC Chen <jeffrey_cc_chen@asus.com>
+    Reviewed-by: Tino Su <tino_su@asus.com>
+
+ef8d1b0
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/92317
+    APK Version: 
+    TT Bugs: 
+    tags: 000070_201308150003
+    Reviewed-by: Jeffrey_CC Chen <jeffrey_cc_chen@asus.com>
+    Reviewed-by: Tino Su <tino_su@asus.com>
+
+
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+54393ad5202f59ba6e35d56219b3b3db7924e816 (tags/044000288_201406250030^0) [AMAX4.4][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+c12870515ac98edc2264cbb32c5258caa4c1e57c (tags/044000285_201406200032^0) update ASUSAccount to V1.6.0.140619
+e841ffd669e79f9e0e522cd1fd94dd6aa50571e0 (tags/044000283_201406180031^0) [AMAX][ASUSAccount][feature][update] move out/Android.mk to ./
+
+54393ad
+    Reviewed-on: http://amax01:8080/136362
+    APK Version: V1.6.0.140623
+    TT Bugs: 416504
+    tags: 044000288_201406250030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c128705
+    Reviewed-on: http://amax01:8080/136066
+    APK Version: 
+    TT Bugs: 
+    tags: 044000285_201406200032
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+e841ffd
+    Reviewed-on: http://amax01:8080/135718
+    APK Version: 
+    TT Bugs: 
+    tags: 044000283_201406180031
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+bf5af3c1c3fa996b6722f0f065b4cc3bf669e7d4 (tags/044000275_201406060028^0) [AMAX4.4][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+0938ae3af81a9adb50e014ab646487f36f372c0f (tags/044000271_201406020029^0) [ASUSAccount] Modify package name for AsusCommonService intergration.
+07130ff8e7f5bed4fa9ae9b82da26ceaaa4d7f7a (tags/044000271_201406020029~1) [AMAX4.4][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+
+bf5af3c
+    Reviewed-on: http://amax01:8080/134822
+    APK Version: V1.6.23.140605
+    TT Bugs: 417193, 419526, 420518
+    tags: 044000275_201406060028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+0938ae3
+    Reviewed-on: http://amax01:8080/134256
+    APK Version: 
+    TT Bugs: 
+    tags: 044000271_201406020029
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+07130ff
+    Reviewed-on: http://amax01:8080/134284
+    APK Version: V1.6.22.140529.
+    TT Bugs: 416648, 416721, 417195, 417197
+    tags: 044000271_201406020029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+0938ae3af81a9adb50e014ab646487f36f372c0f (tags/044000271_201406020029^0) [ASUSAccount] Modify package name for AsusCommonService intergration.
+07130ff8e7f5bed4fa9ae9b82da26ceaaa4d7f7a (tags/044000271_201406020029~1) [AMAX4.4][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+8181f4d6c3aed74614d8537325d2df8d268849df (tags/044000268_201405280029^0) [AMAX4.4][ASUSAccount][TT bugs 407398][fixed] V1.6.17.140527. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login. 5. fix Japanese translation wrong
+
+0938ae3
+    Reviewed-on: http://amax01:8080/134256
+    APK Version: 
+    TT Bugs: 
+    tags: 044000271_201406020029
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+07130ff
+    Reviewed-on: http://amax01:8080/134284
+    APK Version: V1.6.22.140529.
+    TT Bugs: 416648, 416721, 417195, 417197
+    tags: 044000271_201406020029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+8181f4d
+    Reviewed-on: http://amax01:8080/133875
+    APK Version: V1.6.17.140527.
+    TT Bugs: 407398
+    tags: 044000268_201405280029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+ec15839ca30e0f336eac33ff585dbe19c1193d13 (tags/044000264_201405212359^0) [AMAX][ASUSAccount][bug][fix] rm Android.mk to avoid build break
+76e05da499a48710dc235da8f4035599dd2d0e3d (tags/044000264_201405212359~1) [AMAX4.4][ASUSAccount][feature][updated] add apk in out, fast code sync
+1672a3ab543fd975419817d065c3d8ec3b1565b3 (tags/044000264_201405212359~2) [AMAX][ASUSAccount] Fix NoSuchMethodError exception by ant build with proguard.
+
+ec15839
+    Reviewed-on: http://amax01:8080/133305
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+76e05da
+    Reviewed-on: http://amax01:8080/133102
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+1672a3a
+    Reviewed-on: http://amax01:8080/132788
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+672ebd675068a1bd81751412029994187c3ba332 (tags/044000281_201406160030^0) [AMAX4.4][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+de9f6d329ee368078e14dd0dea47b01a3eb1d430 (tags/044000281_201406160030~1) [AMAX][ASUSAccount][Issue][fix]  replace hard coded packageName parameter in setClass with getPackageName() to avoid integrated issue with azcs
+b82f70e1c0247f0b219c4f256c6a34999d07bc1f (tags/044000280_201406130030^0) [AMAX][ASUSAccount] Implement proguard for ant build shrink &  optimize option.
+
+672ebd6
+    Reviewed-on: http://amax01:8080/135582
+    APK Version: V1.6.0.140613
+    TT Bugs: 417193, 419526, 419987, 420371, 420518
+    tags: 044000281_201406160030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+de9f6d3
+    Reviewed-on: http://amax01:8080/135499
+    APK Version: 
+    TT Bugs: 
+    tags: 044000281_201406160030
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+b82f70e
+    Reviewed-on: http://amax01:8080/135429
+    APK Version: 
+    TT Bugs: 
+    tags: 044000280_201406130030
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: Peng Derek1 <Derek1_Peng@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+0938ae3af81a9adb50e014ab646487f36f372c0f (tags/044000271_201406020029^0) [ASUSAccount] Modify package name for AsusCommonService intergration.
+07130ff8e7f5bed4fa9ae9b82da26ceaaa4d7f7a (tags/044000271_201406020029~1) [AMAX4.4][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+8181f4d6c3aed74614d8537325d2df8d268849df (tags/044000268_201405280029^0) [AMAX4.4][ASUSAccount][TT bugs 407398][fixed] V1.6.17.140527. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login. 5. fix Japanese translation wrong
+
+0938ae3
+    Reviewed-on: http://amax01:8080/134256
+    APK Version: 
+    TT Bugs: 
+    tags: 044000271_201406020029
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+07130ff
+    Reviewed-on: http://amax01:8080/134284
+    APK Version: V1.6.22.140529.
+    TT Bugs: 416648, 416721, 417195, 417197
+    tags: 044000271_201406020029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+8181f4d
+    Reviewed-on: http://amax01:8080/133875
+    APK Version: V1.6.17.140527.
+    TT Bugs: 407398
+    tags: 044000268_201405280029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+
+
+******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+0938ae3af81a9adb50e014ab646487f36f372c0f (tags/044000271_201406020029^0) [ASUSAccount] Modify package name for AsusCommonService intergration.
+07130ff8e7f5bed4fa9ae9b82da26ceaaa4d7f7a (tags/044000271_201406020029~1) [AMAX4.4][ASUSAccount][TT bugs 416648, 416721, 417195, 417197][fixed] V1.6.22.140529. 1. Less of resource; 2. Integration logic error
+8181f4d6c3aed74614d8537325d2df8d268849df (tags/044000268_201405280029^0) [AMAX4.4][ASUSAccount][TT bugs 407398][fixed] V1.6.17.140527. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login. 5. fix Japanese translation wrong
+
+0938ae3
+    Reviewed-on: http://amax01:8080/134256
+    APK Version: 
+    TT Bugs: 
+    tags: 044000271_201406020029
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+07130ff
+    Reviewed-on: http://amax01:8080/134284
+    APK Version: V1.6.22.140529.
+    TT Bugs: 416648, 416721, 417195, 417197
+    tags: 044000271_201406020029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+8181f4d
+    Reviewed-on: http://amax01:8080/133875
+    APK Version: V1.6.17.140527.
+    TT Bugs: 407398
+    tags: 044000268_201405280029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+
+
+******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+9efc6c7a6879a7007dc64a452e74b58c6a957171 (tags/11.4.1.18^0) [TF303CL_KK][ASUSAccount][TT gating bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic.
+7b3c135acd1d6b15270ac899463e89ef8b153ced (tags/044000267_201405270029^0) [ASUSAccount] modify package name
+4815da143a79ed4d561fc08a5fd04cd0d282f32e (tags/044000267_201405270029~1) [AMAX4.4][ASUSAccount][TT bugs 407398][fixed] V1.6.16.140526. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login.
+
+9efc6c7
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/140772
+    APK Version: V1.6.0.140623
+    TT Bugs: 416504
+    tags: 11.4.1.18
+    Reviewed-by: 然 陳 <Arica_Chen@asus.com>
+
+7b3c135
+    Reviewed-on: http://amax01:8080/133643
+    APK Version: 
+    TT Bugs: 
+    tags: 044000267_201405270029
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+4815da1
+    Reviewed-on: http://amax01:8080/133743
+    APK Version: V1.6.16.140526.
+    TT Bugs: 407398
+    tags: 044000267_201405270029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: TF103CG	branch: 11. kk-mr0-ctp-r3 ******************
+
+672ebd675068a1bd81751412029994187c3ba332 (tags/044000281_201406160030^0) [AMAX4.4][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+de9f6d329ee368078e14dd0dea47b01a3eb1d430 (tags/044000281_201406160030~1) [AMAX][ASUSAccount][Issue][fix]  replace hard coded packageName parameter in setClass with getPackageName() to avoid integrated issue with azcs
+b82f70e1c0247f0b219c4f256c6a34999d07bc1f (tags/044000280_201406130030^0) [AMAX][ASUSAccount] Implement proguard for ant build shrink &  optimize option.
+
+672ebd6
+    Reviewed-on: http://amax01:8080/135582
+    APK Version: V1.6.0.140613
+    TT Bugs: 417193, 419526, 419987, 420371, 420518
+    tags: 044000281_201406160030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+de9f6d3
+    Reviewed-on: http://amax01:8080/135499
+    APK Version: 
+    TT Bugs: 
+    tags: 044000281_201406160030
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+b82f70e
+    Reviewed-on: http://amax01:8080/135429
+    APK Version: 
+    TT Bugs: 
+    tags: 044000280_201406130030
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: Peng Derek1 <Derek1_Peng@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+696e5d6f640a76afed41585351d9ed364dce554e (tags/11.12.1.10^0) [TF303K][ASUSAccount][TT bugs 407398][fixed] V1.6.17.140527. 1. Add integration logic in settings and FileManager.2. fix bug: QQ or WeiBo cannot login baidu; 3. fix bug : Play Store didn't translate to Japanese; 4. fix a new bug in last version: cannot limit signal account login. 5. fix Japanese translation wrong
+ec15839ca30e0f336eac33ff585dbe19c1193d13 (tags/044000264_201405212359^0) [AMAX][ASUSAccount][bug][fix] rm Android.mk to avoid build break
+76e05da499a48710dc235da8f4035599dd2d0e3d (tags/044000264_201405212359~1) [AMAX4.4][ASUSAccount][feature][updated] add apk in out, fast code sync
+
+696e5d6
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/134760
+    APK Version: V1.6.17.140527.
+    TT Bugs: 407398
+    tags: 11.12.1.10
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+ec15839
+    Reviewed-on: http://amax01:8080/133305
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+76e05da
+    Reviewed-on: http://amax01:8080/133102
+    APK Version: 
+    TT Bugs: 
+    tags: 044000264_201405212359
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+118d1a1d1094879155ef4628bd7b680f78ad1aa2 (tags/11.10.1.7^0) [FE375CG_CXG][ASUSAccount][urgent][fixed] V1.6.0.140701 1. change WLAN to WiFi in English & tranditional Chinese
+672ebd675068a1bd81751412029994187c3ba332 (tags/044000281_201406160030^0) [AMAX4.4][ASUSAccount][TT bugs 417193, 419526, 419987, 420371, 420518][fixed] V1.6.0.140613 1. add strings translation of Japanese;2. white blank picture will appear when hit HomeCloud or WebStorage in Advanced settings;3. OneDrive will crash when cancel security dialog; 4. toast pop up in a wrong way; 5. blank picture will appear if hit WebStorage or HomeCloud in Advanced Settings
+de9f6d329ee368078e14dd0dea47b01a3eb1d430 (tags/044000281_201406160030~1) [AMAX][ASUSAccount][Issue][fix]  replace hard coded packageName parameter in setClass with getPackageName() to avoid integrated issue with azcs
+
+118d1a1
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/141019
+    APK Version: V1.6.0.140701
+    TT Bugs: 
+    tags: 11.10.1.7
+    Reviewed-by: 文勁 劉 <Optimist_Liu@asus.com>
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+672ebd6
+    Reviewed-on: http://amax01:8080/135582
+    APK Version: V1.6.0.140613
+    TT Bugs: 417193, 419526, 419987, 420371, 420518
+    tags: 044000281_201406160030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+de9f6d3
+    Reviewed-on: http://amax01:8080/135499
+    APK Version: 
+    TT Bugs: 
+    tags: 044000281_201406160030
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: FE375CG_CTA	remote: me581	branch: 14. kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA ******************
+
+b406c807909db28b9de027b9419759452c91a25a (tags/11.10.0.49^0) [FE375CG][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+bf5af3c1c3fa996b6722f0f065b4cc3bf669e7d4 (tags/044000275_201406060028^0) [AMAX4.4][ASUSAccount][TT bugs 417193, 419526, 420518][fixed] V1.6.23.140605 1. A blank picture will appear is hit advance setting in setting of ASUS account; 2. add AuCloud function; 3. add translation of Japanese.
+0938ae3af81a9adb50e014ab646487f36f372c0f (tags/044000271_201406020029^0) [ASUSAccount] Modify package name for AsusCommonService intergration.
+
+b406c80
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/136198
+    APK Version: V1.6.23.140605
+    TT Bugs: 417193, 419526, 420518
+    tags: 11.10.0.49
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+bf5af3c
+    Reviewed-on: http://amax01:8080/134822
+    APK Version: V1.6.23.140605
+    TT Bugs: 417193, 419526, 420518
+    tags: 044000275_201406060028
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+0938ae3
+    Reviewed-on: http://amax01:8080/134256
+    APK Version: 
+    TT Bugs: 
+    tags: 044000271_201406020029
+    Reviewed-by: Anthony Chen <Anthony_Chen@asus.com>
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+54393ad5202f59ba6e35d56219b3b3db7924e816 (tags/044000288_201406250030^0) [AMAX4.4][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+c12870515ac98edc2264cbb32c5258caa4c1e57c (tags/044000285_201406200032^0) update ASUSAccount to V1.6.0.140619
+e841ffd669e79f9e0e522cd1fd94dd6aa50571e0 (tags/044000283_201406180031^0) [AMAX][ASUSAccount][feature][update] move out/Android.mk to ./
+
+54393ad
+    Reviewed-on: http://amax01:8080/136362
+    APK Version: V1.6.0.140623
+    TT Bugs: 416504
+    tags: 044000288_201406250030
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+c128705
+    Reviewed-on: http://amax01:8080/136066
+    APK Version: 
+    TT Bugs: 
+    tags: 044000285_201406200032
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+e841ffd
+    Reviewed-on: http://amax01:8080/135718
+    APK Version: 
+    TT Bugs: 
+    tags: 044000283_201406180031
+    Reviewed-by: 軍正 張 <Junzheng_Zhang@asus.com>
+
+
+******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+44c4a11dd38b0116eb8d59b2827476590d8c49c7 (tags/11.8.2.8^0) [ME581CL_KK_R2][ASUSAccount][TT gating bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic
+0800486ee7eec906c52798f75c3c94b76b8c7031 (tags/11.8.2.3^0) [ME581CL_KK_R2][ASUSAccount][TT gating bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic.
+c12870515ac98edc2264cbb32c5258caa4c1e57c (tags/044000285_201406200032^0) update ASUSAccount to V1.6.0.140619
+
+44c4a11
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/141360
+    APK Version: V1.6.0.140623
+    TT Bugs: 416504
+    tags: 11.8.2.8
+    Reviewed-by: Chen Caesar <Caesar_Chen@asus.com>
+
+0800486
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/139827
+    APK Version: V1.6.0.140623
+    TT Bugs: 416504
+    tags: 11.8.2.3
+    Reviewed-by: Chen Caesar <Caesar_Chen@asus.com>
+
+c128705
+    Reviewed-on: http://amax01:8080/136066
+    APK Version: 
+    TT Bugs: 
+    tags: 044000285_201406200032
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+

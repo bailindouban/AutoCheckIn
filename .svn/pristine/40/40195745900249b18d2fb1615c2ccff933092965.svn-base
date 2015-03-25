@@ -1,0 +1,3 @@
+c8d3cb600669463fa8b140e5d706cd482fd77270 (tags/044000280_201406130030^0) [AMAX4.4][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message. Please enter the commit message for your changes. Lines starting
+acdd95f3ddbac8a94288e44b1cf95177e1eeeea2 (tags/044000276_201406091104^0) [AMAX4.4][SoundRecorder][421521][fix]fix soundrecorder not inclued again
+bc5ae5322b00357ba18ee69eda8f6f9be6ae37d2 (tags/044000276_201406091104~1) [AMAX4.4][SoundRecorder][494611][fix] soundrecorder not included

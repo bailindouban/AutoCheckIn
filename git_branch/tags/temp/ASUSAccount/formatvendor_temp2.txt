@@ -1,0 +1,1 @@
+eeaf5a70cc236b5095bff8469e201742a35be90f (tags/K011-dev-debug-3.1.22.165~8) Merge "[ME181C][ASUSAccount][TT bugs 416504][fixed] V1.6.0.140623 1. picture displayed unnormal when mobile insert into pad or pull out of pad; disable HomeCloud for Japanese;3. change login logic" into dev/me181c/asus/4.4.2

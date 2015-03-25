@@ -1,0 +1,105 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "amax"]
+	url = ssh://amax01.corpnet.asus/amax/packages/apps/AsusDeskClock
+	review = amax01.corpnet.asus
+	projectname = amax/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/amax/*
+[remote "TF103C"]
+	url = ssh://172.29.0.76/intel/amax/packages/apps/AsusDeskClock
+	review = 172.29.0.76:8443/code-review/master
+	projectname = intel/amax/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/TF103C/*
+[remote "me581"]
+	url = ssh://mcrd1-5.corpnet.asus/mofd/packages/apps/AsusDeskClock
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = mofd/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/me581/*
+[remote "TF303CL"]
+	url = ssh://mcrd1-5.corpnet.asus/byt/packages/apps/AsusDeskClock
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = byt/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/TF303CL/*
+[remote "TF103CG"]
+	url = ssh://mcrd1-5.corpnet.asus/platform_K/packages/apps/AsusDeskClock
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = platform_K/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/TF103CG/*
+[remote "FE170CG"]
+	url = ssh://mcrd1-5.corpnet.asus/clv/AsusAPs/packages/apps/AsusDeskClock
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = clv/AsusAPs/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/FE170CG/*
+[remote "A450CG"]
+	url = ssh://mcrd3-01.corpnet.asus/AsusAPs/packages/apps/AsusDeskClock
+	review = mcrd3-01.corpnet.asus/code-review/master
+	projectname = AsusAPs/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/A450CG/*
+[remote "A500CG"]
+	url = ssh://tp-biosrd-v02/amax/packages/apps/AsusDeskClock
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/A500CG/*
+[remote "A500KL"]
+    url = ssh://tp-iavss-01.corpnet.asus/szhz/AsusAPs/packages/apps/AsusDeskClock
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = AsusAPs/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/A500KL/*
+[remote "A500KLUP"]
+    url = ssh://mcrd1-22-pc.corpnet.asus/AsusAPs/packages/apps/AsusDeskClock
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = AsusAPs/packages/apps/AsusDeskClock
+	fetch = +refs/heads/*:refs/remotes/A500KLUP/*
+
+[branch "MOFD_KK4.4_WW17_AMAX1.0_FE380CG"]
+	remote = A450CG
+	merge = refs/heads/MOFD_KK4.4_WW17_AMAX1.0_FE380CG
+[branch "CLVP_KK4.4_WW52_AMAX1.0_A400CG"]
+	remote = A450CG
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_A400CG
+[branch "CLVP_KK4.4_WW52_AMAX1.0_PF400CG"]
+	remote = A450CG
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_PF400CG
+[branch "CLVP_KK4.4_WW52_AMAX1.0_ME175CG"]
+	remote = A450CG
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_ME175CG
+[branch "CLVP_KK4.4_WW52_AMAX1.0_ME372CL"]
+	remote = A450CG
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_ME372CL
+[branch "CLVP_KK4.4_WW52_AMAX1.0_TX201LAF"]
+	remote = A450CG
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_TX201LAF
+[branch "KK-mr0-A91-11.10.0.27-LE"]
+	remote = A500KL
+	merge = refs/heads/KK-mr0-A91-11.10.0.27-LE
+[branch "KK-mr1-A500KL-11.4.0.80-MR"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-A500KL-11.4.0.80-MR
+[branch "dev/tf103c/asus/4.4.2"]
+	remote = TF103C
+	merge = refs/heads/dev/tf103c/asus/4.4.2
+[branch "kk-mr0-byt-r1"]
+	remote = TF303CL
+	merge = refs/heads/kk-mr0-byt-r1
+[branch "kk-mr0-ctp-r3"]
+	remote = TF103CG
+	merge = refs/heads/kk-mr0-ctp-r3
+[branch "kk-mr1-8064-r1"]
+	remote = TF103CG
+	merge = refs/heads/kk-mr1-8064-r1
+[branch "kk-mr1-moorefield_ds-r1"]
+	remote = me581
+	merge = refs/heads/kk-mr1-moorefield_ds-r1
+[branch "kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA"]
+	remote = me581
+	merge = refs/heads/kk-mr1-moorefield_ds-dev.11.10.0.49.1_CTA
+[branch "kk-mr1-moorefield_64-r2"]
+	remote = me581
+	merge = refs/heads/kk-mr1-moorefield_64-r2
+[branch "AMAX_1.0-android_4.4"]
+	remote = amax
+	merge = refs/heads/AMAX_1.0-android_4.4
+[branch "AMAX-android_4.3_r2.1-master"]
+	remote = amax
+	merge = refs/heads/AMAX-android_4.3_r2.1-master

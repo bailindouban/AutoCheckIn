@@ -1,0 +1,472 @@
+******************** device: A500CG_MR3	remote: fdc	branch: 0. rel/a500cg/asus/4.3-1.14.40 ******************
+
+28818b6e3d613b02d92826a128f7a008eba3f06e (tags/dev/a600cg/multi-1.14.40.12~14) Merge "[A500CG][SoundRecorder][Modify]Modify version to 2.8.0.140526" into rel/a500cg/asus/4.3-1.14.40
+acbf50cf717079a07cabbc682b1f0335798c5220 (tags/dev/a600cg/multi-1.14.40.12~14^2) [A500CG][SoundRecorder][Modify]Modify version to 2.8.0.140526
+e60c5af4ec5a68cd73e9ea45b0f8fcff29716ea7 (tags/dev/a500cg/multi-1.14.40.7~9) [A500-MR3][SoundRecorder][TT bugs 407606 408507 412087,412129,410587][fixed] V2.8.20.140521_1 Dynamic CAMERA_STOP_RECORD  Receiver registaration, remove folder hight light when log press , cancle toast before showing toast , add dual app layout.
+
+28818b6
+    APK Version: 
+    TT Bugs: 
+    tags: dev/a600cg/multi-1.14.40.12
+
+acbf50c
+    APK Version: 
+    TT Bugs: 
+    tags: dev/a600cg/multi-1.14.40.12
+
+e60c5af
+    APK Version: V2.8.20.140521
+    TT Bugs: 407606 408507 412087,412129,410587
+    tags: dev/a500cg/multi-1.14.40.7
+
+
+******************** device: A500CG_MR4	remote: fdc	branch: 1. rel/a500cg/asus/4.3-1.15.40 ******************
+
+2f593ddbe1eddcf023ebdc488b7581afe01c2266 (tags/dev/a500cg/multi-1.15.40.13) [A500CG][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+e5bcee39a0d808e492b2a9ff6ed52f952fffc359 (tags/dev/a500cg/multi-1.15.40.5~3) Merge "[A500CG][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message." into rel/a500cg/asus/4.3-1.15.40
+376532bfb3c361e1825854051319cb919e6effdd (tags/dev/a500cg/multi-1.15.40.5~3^2) [A500CG][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message.
+
+2f593dd
+    APK Version: V1.0.0.140616
+    TT Bugs: 405499 422312 423013 423193,420947,422495
+    tags: dev/a500cg/multi-1.15.40.13
+
+e5bcee3
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: dev/a500cg/multi-1.15.40.5
+
+376532b
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: dev/a500cg/multi-1.15.40.5
+
+
+******************** device: PF500KL_KK	remote: QC8K	branch: 2. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+549e9cf1399f7a846a129a1ae0d585c897f47a48 (tags/044000247_201404290025~1) [AMAX4.4][SoundRecorder][Fix]2.8.10 add set LOCAL_PRIVILEGED_MODULE is ture.
+92d62f38e33d3125b1eddc58913a3acdfeb6cffe (tags/044000247_201404290025~3) [AMAX4.4][SoundRecorder][ADD]Add into new SoundRecorder version 2.8.9 to branch 4.4.
+2c62807da40d1c4ef75bdddb7e4f0e2a9dbfe2a0 (tags/044000241_201404211335~4) [AMAX4.4][SoundRecorder][NA][modify] 2.5.69 as requirement modify deafult amr to aac
+
+549e9cf
+    Reviewed-on: http://amax01:8080/130904
+    APK Version: 
+    TT Bugs: 
+    tags: 044000247_201404290025
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+92d62f3
+    Reviewed-on: http://amax01:8080/130794
+    APK Version: 
+    TT Bugs: 
+    tags: 044000247_201404290025
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+2c62807
+    Reviewed-on: http://amax01:8080/130021
+    APK Version: 
+    TT Bugs: 
+    tags: 044000241_201404211335
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+
+******************** device: PF450CL_KK	remote: QC8K	branch: 3. KK-mr1-Z2560-dev ******************
+
+03a695d65eef587469b29a88068a55211ef6a7e5 (tags/044000251_201405050026~1) [AMAX4.4][SoundRecorder][Modify]V2.8.13.0 kill soundrecorder service after stopping call recording for releasing source.
+ac143d03c62aa4012debce0f078d5cc0414d1296 (tags/044000248_201404300027^0) [AMAX4.4][SoundRecorder][Add]2.8.12.0 add unplayed recording file number after stopping call recording.
+549e9cf1399f7a846a129a1ae0d585c897f47a48 (tags/044000247_201404290025~1) [AMAX4.4][SoundRecorder][Fix]2.8.10 add set LOCAL_PRIVILEGED_MODULE is ture.
+
+03a695d
+    Reviewed-on: http://amax01:8080/131294
+    APK Version: V2.8.13.0
+    TT Bugs: 
+    tags: 044000251_201405050026
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+ac143d0
+    Reviewed-on: http://amax01:8080/131172
+    APK Version: 
+    TT Bugs: 
+    tags: 044000248_201404300027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+549e9cf
+    Reviewed-on: http://amax01:8080/130904
+    APK Version: 
+    TT Bugs: 
+    tags: 044000247_201404290025
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A68_KK	remote: QC8K	branch: 4. KK-mr1-A68-11.8.0.53-RC ******************
+
+2ee54b64d08066a0cd93606a8aac6f5830d467c6 (tags/A68_11.8.0.40~3) [A68_kk][SoundRecorder][NA][modify] 2.5.69 as requirement modify deafult amr to aac
+207cff75832e86079a546a9d1afd95b6cc8971bb (tags/A68_11.8.0.28^0) [A68kk][SoundRecorder][ASIXTY-1209][Modify] AMAXQ tested this issue. 2.5.65, String 'High Compression' translte to other more than 30 countries
+467635200c6f262eef201f0780ae7d0f5070495b (tags/044000208_201403050243~3) [AMAX][SoundRecorder][TT369772][Fix]Fix gating bug, blank screen in land screen.
+
+2ee54b6
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/122457
+    APK Version: 
+    TT Bugs: 
+    tags: A68_11.8.0.40
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+207cff7
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/120737
+    APK Version: 
+    TT Bugs: 
+    tags: A68_11.8.0.28
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+4676352
+    Reviewed-on: http://amax01:8080/124290
+    APK Version: 
+    TT Bugs: 369772
+    tags: 044000208_201403050243
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A80_KK	remote: QC8K	branch: 5. KK-mr1-8064-dev ******************
+
+2ee54b64d08066a0cd93606a8aac6f5830d467c6 (tags/A68_11.8.0.40~3) [A68_kk][SoundRecorder][NA][modify] 2.5.69 as requirement modify deafult amr to aac
+207cff75832e86079a546a9d1afd95b6cc8971bb (tags/A68_11.8.0.28^0) [A68kk][SoundRecorder][ASIXTY-1209][Modify] AMAXQ tested this issue. 2.5.65, String 'High Compression' translte to other more than 30 countries
+467635200c6f262eef201f0780ae7d0f5070495b (tags/044000208_201403050243~3) [AMAX][SoundRecorder][TT369772][Fix]Fix gating bug, blank screen in land screen.
+
+2ee54b6
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/122457
+    APK Version: 
+    TT Bugs: 
+    tags: A68_11.8.0.40
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+207cff7
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/120737
+    APK Version: 
+    TT Bugs: 
+    tags: A68_11.8.0.28
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+4676352
+    Reviewed-on: http://amax01:8080/124290
+    APK Version: 
+    TT Bugs: 369772
+    tags: 044000208_201403050243
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: A500KL_KK	remote: QC8K	branch: 6. KK-mr1-A500KL-11.4.0.30-RC ******************
+
+2438c991d09717dda126726961afe8574d79437d (tags/A500KL_11.4.5.69~5) [A500KL][SoundRecorder][TT bugs 407606 408507 412087,412129,410587][fixed] V2.8.20.140521_1 Dynamic CAMERA_STOP_RECORD Receiver registaration, remove folder hight light when log press , cancle toast before showing toast , add dual app layout.
+4bf0a768961d5cb28f0f3815ec4dfc47d9b1df6b (tags/A500KL_11.4.5.40~3) [A500KL][SoundRecorder][TT406998,406699][Fix]V2.8.16.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error.
+365f2dabd9d83d49e520f89cb446c291313daf87 (tags/A500KL_11.4.5.33~2) [A500KL][SoundRecorder][Add]Add AMAX1.1 V2.8.15.0 soundrecorder into A500KL branch.
+
+2438c99
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/127704
+    APK Version: V2.8.20.140521
+    TT Bugs: 407606 408507 412087,412129,410587
+    tags: A500KL_11.4.5.69
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+
+4bf0a76
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/124824
+    APK Version: V2.8.16.0
+    TT Bugs: 406998,406699
+    tags: A500KL_11.4.5.40
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+365f2da
+    Reviewed-on: http://mcrd1-22-pc.corpnet.asus/code-review/master/124448
+    APK Version: V2.8.15.0
+    TT Bugs: 
+    tags: A500KL_11.4.5.33
+    Reviewed-by: samp_miao <samp_miao@asus.com>
+    Reviewed-by: optimist_liu <optimist_liu@asus.com>
+
+
+******************** device: A450CG_KK	remote: SW3	branch: 7. CLVP_KK4.4_WW52_AMAX1.0_A450CG ******************
+
+8358d3e27b20f7f58486687ef92333f03a6a4e77 (tags/A450CG_V4.0.2_WW52_TW_WW~4) [A450CG][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+4101496694099fba69a21aa21049708e41426708 (tags/A450CG_V4.0.1_WW52_TW~12) [A450CG][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message.
+71fba69542af631b40fbbda4c443d75069b0ddce (tags/A450CG_V4.0.0_WW52_WW~22) [A450CG][SoundRecorder][TT bugs 385030][fixed] V2.8.21.140526 Add dual app layout for me581, add multi language(JP), and modify CHANNEL_IN_MONO to CHANNEL_CONFIGURATION_STEREO(2 channel).
+
+8358d3e
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/31966
+    APK Version: V1.0.0.140616
+    TT Bugs: 405499 422312 423013 423193,420947,422495
+    tags: A450CG_V4.0.2_WW52_TW_WW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+4101496
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/30450
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: A450CG_V4.0.1_WW52_TW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+71fba69
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/28785
+    APK Version: V2.8.21.140526
+    TT Bugs: 385030
+    tags: A450CG_V4.0.0_WW52_WW
+    Reviewed-by: Derek1_Peng <Derek1_Peng@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+
+******************** device: ME372CG_KK	remote: SW3	branch: 8. CLVP_KK4.4_WW52_AMAX1.0_ME372CG ******************
+
+91b37c1cce3ca6454cdbde2fff7b400834d3956a (tags/044000262_201405200029~4) [AMAX4.4][SoundRecorder][TT bugs 408507,405449][fixed] V2.8.18.140513 Fix ArrayListIterator exception in doInBackground, add(1), (2) in the end of renaming file name if file type is different. Delete unused resource.
+62896ba56401a20211968043ec9618a8c92eb277 (tags/044000255_201405090027~5) [AMAX4.4][SoundRecorder][TT406998,406699][Fix]V2.8.16.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error.
+2ee45bebee0f0fad9250455441837bf38375cb33 (tags/044000252_201405060027~2) [AMAX4.4][SoundRecorder][Fix]fix: can't play when click back button.
+
+91b37c1
+    Reviewed-on: http://amax01:8080/132922
+    APK Version: V2.8.18.140513
+    TT Bugs: 408507,405449
+    tags: 044000262_201405200029
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+62896ba
+    Reviewed-on: http://amax01:8080/131790
+    APK Version: V2.8.16.0
+    TT Bugs: 406998,406699
+    tags: 044000255_201405090027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+2ee45be
+    Reviewed-on: http://amax01:8080/131472
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: PF400CG_JB	remote: SW3	branch: 9. CLVP_JB4.3_WW38_AMAX1.0_PF400CG ******************
+
+caedc794931857b9999d24b0ebf974c2770b8430 (tags/PF400CG_V4.0.4_WW38_CN~1) [PF400CG][SoundRecorder][ASIXTY-1209][Modify] AMAXQ tested this issue. 2.5.65, String 'High Compression' translte to other more than 30 countries
+ba5184fc3d4ae63c85d7c7991d12d4fdd3363c03 (tags/PF400CG_V3.9.8_WW38_WW_TW_CN~10) [PF400][SoundRecorder][prebuilt][Fix]2.5.51 add the lost action title in message recording.
+ec4c14f93290f6b63bb24387d035a0b1eda7aab0 (tags/PF400CG_V3.9.3_WW38_TW_CN~4) [PF400CG][SoundRecorder][TT369772][Fxi] fix gatting bug, blank scren in land screen.
+
+caedc79
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/23961
+    APK Version: 
+    TT Bugs: 
+    tags: PF400CG_V4.0.4_WW38_CN
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+ba5184f
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/21450
+    APK Version: 
+    TT Bugs: 
+    tags: PF400CG_V3.9.8_WW38_WW_TW_CN
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+ec4c14f
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/20361
+    APK Version: 
+    TT Bugs: 369772
+    tags: PF400CG_V3.9.3_WW38_TW_CN
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+
+******************** device: A400CG_JB	remote: SW3	branch: 10. CLVP_JB4.3_WW38_AMAX1.0_A400CG ******************
+
+5ee959525e441f946f781c8d17363d5e45502d12 (tags/A400CG_V4.3.3_WW38_WW~11) [A400CG][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message.
+985920617ac53f52c7f93411efe725470b7d4636 (tags/A400CG_V4.3.2_WW38_TKC^0) [A400CG][SoundRecorder][TT bugs 385030][fixed] V2.8.21.140526 Add dual app layout for me581, add multi language(JP), and modify CHANNEL_IN_MONO to CHANNEL_CONFIGURATION_STEREO(2 channel).
+1742f856269b7f23e7a0d7c52e79e12e3d1ffca3 (tags/A400CG_V4.3.1_WW38_TW_WW_CHT~3) [A400CG][SoundRecorder][TT bugs 407606 408507 412087,412129,410587][fixed] V2.8.20.140521_1 Dynamic CAMERA_STOP_RECORD Receiver registaration, remove folder hight light when log press , cancle toast before showing toast , add dual app layout.
+
+5ee9595
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/30453
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: A400CG_V4.3.3_WW38_WW
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+9859206
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/28751
+    APK Version: V2.8.21.140526
+    TT Bugs: 385030
+    tags: A400CG_V4.3.2_WW38_TKC
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+1742f85
+    Reviewed-on: http://mcrd3-01.corpnet.asus/code-review/master/27756
+    APK Version: V2.8.20.140521
+    TT Bugs: 407606 408507 412087,412129,410587
+    tags: A400CG_V4.3.1_WW38_TW_WW_CHT
+    Reviewed-by: Juneson_Lee <juneson_lee@asus.com>
+    Reviewed-by: JerryLB_Yeh <JerryLB_Yeh@asus.com>
+
+
+******************** device: FE170CG/ME170C/ME70C/ME70CX	remote: FE170CG	branch: 11. jb-mr2-ctp-r1 ******************
+
+cd11a0cf9f0678df1c324542fc01dfd077e660f6 (tags/10.32.1.20~8) [FE170][SoundRecorder][ASIXTY-1209][Modify] AMAXQ tested this issue. 2.5.65, String 'High Compression' translte to other more than 30 countries
+0649d422ebc2fd97fb50cd305654cdd038ac593d (tags/10.32.1.19~5) [ME170][SoundRecorder][ASIXTY-1209][Fix] 2.5.64, String 'High Compression' translte into indonesia ,add malysia and burmese strings
+520afc42d6e28210298a251930ef4c44a0514e49 (tags/10.32.1.19~8) [FE170][SoundRecorder][ASIXTY-1209][Fix] 2.5.63 for save engery ,modify string to Hight compression
+
+cd11a0c
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/128508
+    APK Version: 
+    TT Bugs: 
+    tags: 10.32.1.20
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+
+0649d42
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/128100
+    APK Version: 
+    TT Bugs: 
+    tags: 10.32.1.19
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+
+520afc4
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/127764
+    APK Version: 
+    TT Bugs: 
+    tags: 10.32.1.19
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+
+
+******************** device: TF701T_P1802_KK	remote: TF103CG	branch: 12. kk-t40-r1 ******************
+
+79985d09f6bf6ba07b22f5659c254943a986dcf2 (tags/11.4.1.13^0) [TF701T][SoundRecorder][TT bugs 405499 422312 423013 423193,420947,422495][fixed] V1.0.0.140616 Add user-feature asus.software.marketapp, Modify call recording filename like YYYYMMDD_HHMMSS_Caller Name or YYYYMMDD_HHMMSS_Phone Number, fix can't drag the seek bar after clicking twice, stop recording directly not send message.
+9e5593422044e304f477be507dfa67dc466eb6cc (tags/11.4.1.11~6) [TF701T][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message.
+2ee45bebee0f0fad9250455441837bf38375cb33 (tags/044000252_201405060027~2) [AMAX4.4][SoundRecorder][Fix]fix: can't play when click back button.
+
+79985d0
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/139218
+    APK Version: V1.0.0.140616
+    TT Bugs: 405499 422312 423013 423193,420947,422495
+    tags: 11.4.1.13
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+
+9e55934
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/138120
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 11.4.1.11
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+
+2ee45be
+    Reviewed-on: http://amax01:8080/131472
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: TF103CG_KK	remote: TF103CG	branch: 13. kk-mr0-ctp-r2 ******************
+
+be340fc90cc146cb253643254f2298bcd87c648f (tags/11.2.2.10~16) [TF103CG][SoundRecorder][TT bugs 385030][fixed] V2.8.21.140526 Add dual app layout for me581, add multi language(JP), and modify CHANNEL_IN_MONO to CHANNEL_CONFIGURATION_STEREO(2 channel).
+62896ba56401a20211968043ec9618a8c92eb277 (tags/044000255_201405090027~5) [AMAX4.4][SoundRecorder][TT406998,406699][Fix]V2.8.16.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error.
+2ee45bebee0f0fad9250455441837bf38375cb33 (tags/044000252_201405060027~2) [AMAX4.4][SoundRecorder][Fix]fix: can't play when click back button.
+
+be340fc
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/135268
+    APK Version: V2.8.21.140526
+    TT Bugs: 385030
+    tags: 11.2.2.10
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+    Reviewed-by: Terry_KL Lin <Terry_KL_Lin@asus.com>
+    Reviewed-by: David Kuo <David_Kuo@asus.com>
+
+62896ba
+    Reviewed-on: http://amax01:8080/131790
+    APK Version: V2.8.16.0
+    TT Bugs: 406998,406699
+    tags: 044000255_201405090027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+2ee45be
+    Reviewed-on: http://amax01:8080/131472
+    APK Version: 
+    TT Bugs: 
+    tags: 044000252_201405060027
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+
+******************** device: ME560CG_KK	remote: TF103CG	branch: 14. kk-mr0-ctp-r1 ******************
+
+c3900a67c54bf3eec0ba85b496ba2084e1929e1f (tags/11.2.1.11~17) [ME560CG][SoundRecorder][TT bugs 411978 417717 417769 417826][fixed] V1.0.0.140605_1 Add land screen layout for TX201LAF, fix wake acquire twice error, remove system notification after being killed, add black space for toasting illeagl character message.
+38e210d4d7308055170464f122ae0dfb72658781 (tags/044000236_201404140024~5) [AMAX4.4][SoundRecorder][ASIXTY-1209][Modify] AMAXQ tested this issue. 2.5.65, String 'High Compression' translte to other more than 30 countries
+151ed8a48204f5d2d33983a9c25f0d077926a6ea (tags/044000230_201404040006~2) [AMAX4.4][SoundRecorder][ASIXTY-1209][Fix] 2.5.64, String 'High Compression' translte into indonesia ,add malysia and burmese strings
+
+c3900a6
+    Reviewed-on: http://mcrd1-5.corpnet.asus/code-review/master/138513
+    APK Version: V1.0.0.140605
+    TT Bugs: 411978 417717 417769 417826
+    tags: 11.2.1.11
+    Reviewed-by: 新甫 苗 <Samp_Miao@asus.com>
+
+38e210d
+    Reviewed-on: http://amax01:8080/128823
+    APK Version: 
+    TT Bugs: 
+    tags: 044000236_201404140024
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+151ed8a
+    Reviewed-on: http://amax01:8080/128414
+    APK Version: 
+    TT Bugs: 
+    tags: 044000230_201404040006
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+
+******************** device: ME176C	remote: FE176C	branch: 15. dev/me176c/asus/4.4.2 ******************
+
+0b760cf92d41ea7849436be04a794b96d1f2ccce (tags/K013-dev-debug-3.0.12.135) Merge "[ME176c][SoundRecorder][NA][modify] 2.5.69 as requirement modify deafult amr to aac" into dev/me176c/asus/4.4.2
+3dd778ddfcb5023018d181c09897e244d1571954 (tags/K013-dev-debug-3.0.12.135^2) [ME176c][SoundRecorder][NA][modify] 2.5.69 as requirement modify deafult amr to aac
+b07f5855acee1114fb9ded0e2cefb732ce7fb5ae (tags/K013-dev-debug-3.0.12.129) Merge "[ME176c][SoundRecorder][NA][modify] add LOCAL_PRIVILEGED_MODULE:=true for binary release" into dev/me176c/asus/4.4.2
+
+0b760cf
+    APK Version: 
+    TT Bugs: 
+    tags: K013-dev-debug-3.0.12.135
+
+3dd778d
+    APK Version: 
+    TT Bugs: 
+    tags: K013-dev-debug-3.0.12.135
+
+b07f585
+    APK Version: 
+    TT Bugs: 
+    tags: K013-dev-debug-3.0.12.129
+
+
+******************** device: ME181C	remote: FE176C	branch: 16. dev/me181c/asus/4.4.2 ******************
+
+d5708b1e65fb534aca3cd0ae80231bb30b00a678 (tags/K011-dev-debug-3.1.22.136~2) Merge "[ME181[SoundRecorder][TT406998,406699][Fix]V2.8.17.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error." into dev/me181c/asus/4.4.2
+07f415579b1f14533ca2e12e44bd82485549feb5 (tags/K011-dev-debug-3.1.22.136~2^2) [ME181[SoundRecorder][TT406998,406699][Fix]V2.8.17.0 Fix crash bug isNewDefaultFileName null point exception and ShutDownReceiver path error.
+4e5fe67bd8794697153444324636bf854b51c220 (tags/044000239_201404170025~7) [AMAX4.4][SoundRecorder][NA][modify] add LOCAL_PRIVILEGED_MODULE:=true for binary release
+
+d5708b1
+    APK Version: V2.8.17.0
+    TT Bugs: 406998,406699
+    tags: K011-dev-debug-3.1.22.136
+
+07f4155
+    APK Version: V2.8.17.0
+    TT Bugs: 406998,406699
+    tags: K011-dev-debug-3.1.22.136
+
+4e5fe67
+    Reviewed-on: http://amax01:8080/129543
+    APK Version: 
+    TT Bugs: 
+    tags: 044000239_201404170025
+    Reviewed-by: Harry Kuo <Harry_Kuo@asus.com>
+
+

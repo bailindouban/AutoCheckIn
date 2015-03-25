@@ -1,0 +1,60 @@
+	******************** device: AMAX_4.3	remote: amax	branch: 0. AMAX-android_4.3_r2.1-master ******************
+
+	remote:   http://amax01:8080/137073
+
+	******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+	remote:   http://amax01:8080/137074
+
+	******************** device: A400CG_KK	remote: A450CG	branch: 2. CLVP_KK4.4_WW52_AMAX1.0_A400CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33679
+
+	******************** device: PF400CG_KK	remote: A450CG	branch: 3. CLVP_KK4.4_WW52_AMAX1.0_PF400CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33680
+
+	******************** device: ME175CG_KK	remote: A450CG	branch: 4. CLVP_KK4.4_WW52_AMAX1.0_ME175CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33681
+
+	******************** device: ME372CL_KK	remote: A450CG	branch: 5. CLVP_KK4.4_WW52_AMAX1.0_ME372CL ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33682
+
+	******************** device: TX201LAF_KK	remote: A450CG	branch: 6. CLVP_KK4.4_WW52_AMAX1.0_TX201LAF ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33683
+
+	******************** device: A91_LE_KK	remote: A500KLUP	branch: 7. KK-mr0-A91-11.10.0.27-LE ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/132998
+
+	******************** device: A500KL_80MR	remote: A500KLUP	branch: 8. KK-mr1-A500KL-11.4.0.80-MR ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/132999
+
+	******************** device: TF103C	remote: TF103C	branch: 9. dev/tf103c/asus/4.4.2 ******************
+
+	remote:   http://172.29.0.76:8443/12345
+
+	******************** device: TF303CL_KK	remote: TF303CL	branch: 10. kk-mr0-byt-r1 ******************
+
+	remote:   http://mcrd1-5.corpnet.asus/code-review/master/141373
+
+	******************** device: TF303KL_KK	remote: TF103CG	branch: 12. kk-mr1-8064-r1 ******************
+
+	remote:   http://mcrd1-5.corpnet.asus/code-review/master/141374
+
+	******************** device: FE375CG_CXG	remote: me581	branch: 13. kk-mr1-moorefield_ds-r1 ******************
+
+	remote:   http://mcrd1-5.corpnet.asus/code-review/master/141375
+
+	******************** device: ME581CL_KK	remote: me581	branch: 15. kk-mr1-moorefield_64-dev ******************
+
+	remote:   http://mcrd1-5.corpnet.asus/code-review/master/141376
+
+	******************** device: ME581CL_KK_R2	remote: me581	branch: 16. kk-mr1-moorefield_64-r2 ******************
+
+	remote:   http://mcrd1-5.corpnet.asus/code-review/master/141377
+

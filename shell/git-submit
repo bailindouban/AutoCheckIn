@@ -1,0 +1,45 @@
+#!/bin/sh -e
+
+if [ -z "$1" ];then
+   # echo "Remote name empty!!!"
+   
+#   echo $REMOTE
+   # remotebranch=`git rev-parse --abbrev-ref --symbolic-full-name @{u} | cut -d/ -f2-`
+   REMOTE=`git rev-parse --abbrev-ref --symbolic-full-name @{u} | cut -d/ -f1`
+   # echo "remotebranch: "$remotebranch
+   # if [ -z "$remotebranch" ];then
+#          exit
+   # fi
+else 
+    REMOTE=$1
+fi
+
+BRANCH=`git rev-parse --abbrev-ref --symbolic-full-name @{u} | cut -d/ -f2-`
+
+echo -e "Remote: \033[0;32;1m" $REMOTE "\033[0m  Branch:  \033[0;32;1m" $BRANCH"\033[0m"
+if [ -z $REMOTE ] || [ -z $BRANCH ];then
+    echo "branch or remote is empty"
+    exit
+fi
+
+#`git symbolic-ref HEAD`
+
+#echo "branch name: "$BRANCH
+#case $BRANCH in 
+#      refs/heads/*)
+#      BRANCH=`basename $BRANCH`
+#      ;;
+#    *)
+#     echo "Cannot find branch you are on"
+#     exit 1
+#     ;;
+#esac
+
+
+read -p "Make sure above message is correct ?? (y/n), direct Enter mean yes:" name
+if [ -z $name ] || [ "$name" = "y" ] || [ "$name" = "yes" ]; then
+   git push $REMOTE HEAD:refs/for/$BRANCH
+else 
+   echo "you input: "$name" push abort!!  "
+   exit 1
+fi

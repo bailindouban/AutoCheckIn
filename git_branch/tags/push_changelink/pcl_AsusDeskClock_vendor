@@ -1,0 +1,54 @@
+	******************** device: A500CG_MR3	remote: fdc	branch: 0. rel/a500cg/asus/4.3-1.14.40 ******************
+
+	remote:   https://tp-biosrd-v02/gerrit/19075
+
+	******************** device: A500CG_MR4	remote: fdc	branch: 1. rel/a500cg/asus/4.3-1.15.40 ******************
+
+	remote:   https://tp-biosrd-v02/gerrit/19076
+
+	******************** device: PF500KL_KK	remote: QC8K	branch: 2. KK-mr1-PF500KL-11.10.0.118-RC ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133014
+
+	******************** device: PF450CL_TA	remote: QC8K	branch: 3. KK-mr1-PF450CL-11.30.0.10-TA ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133015
+
+	******************** device: A68_KK	remote: QC8K	branch: 5. KK-mr1-A68-11.8.0.53-RC ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133016
+
+	******************** device: A80_KK	remote: QC8K	branch: 6. KK-mr1-8064-dev ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133018
+
+	******************** device: A500KL_KK	remote: QC8K	branch: 7. KK-mr1-A500KL-11.4.0.30-RC ******************
+
+	remote:   http://mcrd1-22-pc.corpnet.asus/code-review/master/133019
+
+	******************** device: A450CG_KK	remote: SW3	branch: 8. CLVP_KK4.4_WW52_AMAX1.0_A450CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33691
+
+	******************** device: ME372CG_KK	remote: SW3	branch: 9. CLVP_KK4.4_WW52_AMAX1.0_ME372CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33692
+
+	******************** device: PF400CG_JB	remote: SW3	branch: 10. CLVP_JB4.3_WW38_AMAX1.0_PF400CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33693
+
+	******************** device: A400CG_JB	remote: SW3	branch: 11. CLVP_JB4.3_WW38_AMAX1.0_A400CG ******************
+
+	remote:   http://mcrd3-01.corpnet.asus/code-review/master/33694
+
+	******************** device: TF701T_P1802_KK	remote: TF103CG	branch: 13. kk-t40-r1 ******************
+
+	******************** device: TF103CG_KK	remote: TF103CG	branch: 14. kk-mr0-ctp-r2 ******************
+
+	******************** device: ME560CG_KK	remote: TF103CG	branch: 15. kk-mr0-ctp-r1 ******************
+
+	******************** device: ME176C	remote: FE176C	branch: 16. dev/me176c/asus/4.4.2 ******************
+
+	******************** device: ME181C	remote: FE176C	branch: 17. dev/me181c/asus/4.4.2 ******************
+

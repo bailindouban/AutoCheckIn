@@ -1,0 +1,146 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "etrd"]
+	url = ssh://mcrd1-5.corpnet.asus/amax/vendor/amax-prebuilt
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/etrd/*
+[remote "amax"]
+	url = ssh://amax01.corpnet.asus/amax/vendor/amax-prebuilt
+	review = amax01.corpnet.asus
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/amax/*
+[remote "me581"]
+	url = ssh://mcrd1-5.corpnet.asus/mofd/vendor/amax-prebuilt
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = mofd/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/me581/*
+[remote "TF303CL"]
+	url = ssh://mcrd1-5.corpnet.asus/byt/vendor/amax-prebuilt
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = byt/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/TF303CL/*
+[remote "TF103CG"]
+	url = ssh://mcrd1-5.corpnet.asus/platform_K/vendor/amax-prebuilt
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = platform_K/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/TF103CG/*
+[remote "FE170CG"]
+	url = ssh://mcrd1-5.corpnet.asus/clv/AsusAPs/vendor/amax-prebuilt
+	review = mcrd1-5.corpnet.asus/code-review/master
+	projectname = clv/AsusAPs/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/FE170CG/*
+[remote "SW3"]
+	url = ssh://mcrd3-01.corpnet.asus/AsusAPs/vendor/amax-prebuilt
+	review = mcrd3-01.corpnet.asus/code-review/master
+	projectname = AsusAPs/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/SW3/*
+[remote "fdc"]
+	url = ssh://tp-biosrd-v02/amax/vendor/amax-prebuilt
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/fdc/*
+[remote "FE176C"]
+	url = ssh://172.29.0.76/intel/amax/vendor/amax-prebuilt
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/FE176C/*
+[remote "QC8K"]
+	url = ssh://mcrd1-22-pc.corpnet.asus/AsusAPs/vendor/amax-prebuilt
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/QC8K/*
+[remote "A500KL"]
+    url = ssh://tp-iavss-01.corpnet.asus/szhz/AsusAPs/vendor/amax-prebuilt
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/A500KL/*
+[remote "A500KLUP"]
+    url = ssh://mcrd1-22-pc.corpnet.asus/AsusAPs/vendor/amax-prebuilt
+	review = https://tp-biosrd-v02/gerrit/
+	projectname = amax/vendor/amax-prebuilt
+	fetch = +refs/heads/*:refs/remotes/A500KLUP/*
+		
+[branch "ME170CG-jb-mr2-ctp-r1"]
+	remote = FE170CG
+	merge = refs/heads/jb-mr2-ctp-r1
+[branch "CLVP_JB4.3_WW38_AMAX1.0"]
+	remote = SW3
+	merge = refs/heads/CLVP_JB4.3_WW38_AMAX1.0
+[branch "CLVP_JB4.3_WW38_AMAX1.0_PF400CG"]
+	remote = SW3
+	merge = refs/heads/CLVP_JB4.3_WW38_AMAX1.0_PF400CG
+[branch "dev/me181c/asus/4.4.2"]
+	remote = FE176C
+	merge = refs/heads/dev/me181c/asus/4.4.2
+[branch "dev/me176c/asus/4.4.2"]
+	remote = FE176C
+	merge = refs/heads/dev/me176c/asus/4.4.2
+[branch "KK-mr1-PF500KL-dev"]
+[branch "rel/a500cg/asus/4.3-20140403"]
+	remote = fdc
+	merge = refs/heads/rel/a500cg/asus/4.3-20140403
+[branch "SW3/CLVP_KK4.4_WW52_AMAX1.0_A450CG"]
+	remote = SW3
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_A450CG
+[branch "release/tf103c/asus/4.4.2"]
+	remote = FE176C
+	merge = refs/heads/release/tf103c/asus/4.4.2
+[branch "kk-mr0-ctp-r2"]
+	remote = TF103CG
+	merge = refs/heads/kk-mr0-ctp-r2
+[branch "CLVP_KK4.4_WW52_AMAX1.0_A450CG"]
+	remote = SW3
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_A450CG
+[branch "kk-mr0-byt-r1"]
+	remote = TF303Cl
+	merge = refs/heads/kk-mr0-byt-r1
+[branch "CLVP_KK4.4_WW52_AMAX1.0_ME372CG"]
+	remote = SW3
+	merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_ME372CG
+[branch "kk-mr0-ctp-r1"]
+	remote = TF103CG
+	merge = refs/heads/kk-mr0-ctp-r1
+[branch "CLVP_KK4.4_WW52_AMAX1.0_TX201LAF"]
+	remote = SW3
+    merge = refs/heads/CLVP_KK4.4_WW52_AMAX1.0_TX201LAF
+[branch "KK-mr1-Z2560-dev"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-Z2560-dev
+[branch "KK-mr1-A68-11.8.0.53-RC"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-A68-11.8.0.53-RC
+[branch "CLVP_JB4.3_WW38_AMAX1.0_A400CG_2"]
+	remote = SW3
+	merge = refs/heads/CLVP_JB4.3_WW38_AMAX1.0_A400CG
+[branch "jb-mr2-ctp-r1"]
+	remote = FE170CG
+	merge = refs/heads/jb-mr2-ctp-r1
+[branch "KK-mr1-8064-dev"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-8064-dev
+[branch "TF103CG/kk-mr0-ctp-r1"]
+	remote = TF103CG
+	merge = refs/heads/kk-mr0-ctp-r1
+[branch "kk-t40-r1"]
+	remote = TF103CG
+	merge = refs/heads/kk-t40-r1
+[branch "KK-mr1-PF500KL-11.10.0.118-RC"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-PF500KL-11.10.0.118-RC
+[branch "rel/a500cg/asus/4.3-1.14.40"]
+	remote = fdc
+	merge = refs/heads/rel/a500cg/asus/4.3-1.14.40
+[branch "rel/a500cg/asus/4.3-1.15.40"]
+	remote = fdc
+	merge = refs/heads/rel/a500cg/asus/4.3-1.15.40
+[branch "KK-mr1-A500KL-11.4.0.30-RC"]
+	remote = A500KL
+	merge = refs/heads/KK-mr1-A500KL-11.4.0.30-RC
+[branch "CLVP_JB4.3_WW38_AMAX1.0_A400CG"]
+	remote = SW3
+	merge = refs/heads/CLVP_JB4.3_WW38_AMAX1.0_A400CG
+[branch "kk-mr1-moorefield_64-r2"]
+	remote = me581
+	merge = refs/heads/kk-mr1-moorefield_64-r2

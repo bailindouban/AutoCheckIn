@@ -1,0 +1,12 @@
+******************** device: AMAX_4.4	remote: amax	branch: 1. AMAX_1.0-android_4.4 ******************
+
+remote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2)[K
+remote: remote: Processing changes: new: 1, refs: 1[Kremote: Processing changes: new: 1, refs: 1, done    [K
+remote: (W) 995e18f: commit subject >65 characters; use shorter first paragraph[K
+remote: (W) 995e18f: commit message lines >70 characters; manually wrap lines[K
+remote: 
+remote: New Changes:[K
+remote:   http://amax01:8080/137182[K
+remote: 
+To ssh://amax01.corpnet.asus/amax/packages/apps/ASUSAccount
+ * [new branch]      HEAD -> refs/for/AMAX_1.0-android_4.4
